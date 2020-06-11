@@ -70,7 +70,6 @@ export class FlashcardsScreen extends React.Component<Props, State> {
   }
 
   filterFlashcardsList = () => {
-    console.log('filterFlashcardsList');
     AsyncStorage.multiGet(
       [CORRECT_FILTER_NAME, INCORRECT_FILTER_NAME, UNANSWERED_FILTER_NAME],
       (err, stores) => {
@@ -101,18 +100,9 @@ export class FlashcardsScreen extends React.Component<Props, State> {
           setTimeout(() => null, 0);
 
           if (this.flashcards) {
-            const flashcards = this.flashcards;
-            // @TODO :: remove this after investigation as to why .filtered does not exit sometimes
-            function filterFlashcards() {
-              if (!flashcards.filtered) {
-                console.log('this.flashcards', flashcards);
-              }
-              return flashcards.filtered(filterString);
-            }
-
             this.setState({
               flashcards:
-                filterString === '' ? this.flashcards : filterFlashcards(),
+                filterString === '' ? this.flashcards : this.flashcards.filtered(filterString),
             });
           }
         }
