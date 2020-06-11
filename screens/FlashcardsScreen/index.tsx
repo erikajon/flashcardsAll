@@ -32,7 +32,7 @@ interface State {
 }
 
 export class FlashcardsScreen extends React.Component<Props, State> {
-  flashcards: Realm.Results<FlashcardModel>;
+  flashcards?: Realm.Results<FlashcardModel>;
 
   static get options() {
     return {
@@ -54,7 +54,10 @@ export class FlashcardsScreen extends React.Component<Props, State> {
 
   constructor(props: Props) {
     super(props);
-    this.flashcards = flashcardActions.getAllByModuleId(this.props.moduleId);
+
+    if (this.props.moduleId) {
+      this.flashcards = flashcardActions.getAllByModuleId(this.props.moduleId);
+    }
 
     this.state = {};
 

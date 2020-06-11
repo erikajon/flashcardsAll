@@ -5686,10 +5686,10 @@ react-native-fs@^2.16.6:
     base-64 "^0.1.0"
     utf8 "^3.0.0"
 
-react-native-navigation@^4.4.0:
-  version "4.8.4"
-  resolved "https://registry.yarnpkg.com/react-native-navigation/-/react-native-navigation-4.8.4.tgz#a9e4c272054d831c66bb406c5f164c108ba8e942"
-  integrity sha512-aORJK7B2Jih29wmszRwV3zwuIwrXWtQjdVm0bVMMzk0iPKJMMrCvW+GZIAxxHhJfKEdy7GNCdyRv0g43/Frj2A==
+react-native-navigation@^6.7.2:
+  version "6.7.2"
+  resolved "https://registry.yarnpkg.com/react-native-navigation/-/react-native-navigation-6.7.2.tgz#f14f57448b20e31bfc82daea0220e4cd73a0f546"
+  integrity sha512-taENL6NWO+fGep070IX6e4VS0B2SEJtHxT+AvVOXUZWOWO6yB9682ckBxpU+aW7NDMr6gOCAz9Cw6uRYJE6OfA==
   dependencies:
     hoist-non-react-statics "3.x.x"
     lodash "4.17.x"
