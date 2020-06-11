@@ -1,0 +1,4493 @@
+[
+  {
+    "id": 1,
+    "question": "What is an approximate radius of an atom?",
+    "question_img": "",
+    "answer": "0.1 nm",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 2,
+    "question": "What is the makeup of a nucleus?",
+    "question_img": "",
+    "answer": "Nucleus is made up of protons and neutrons",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 3,
+    "question": "What is the charge of a proton?",
+    "question_img": "",
+    "answer": "Positive (+)",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 4,
+    "question": "What is the charge of a neutron?",
+    "question_img": "",
+    "answer": "Neutral",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 5,
+    "question": "What is the charge of an electron?",
+    "question_img": "",
+    "answer": "Negative (-)",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 6,
+    "question": "What is the charge of an atom?",
+    "question_img": "",
+    "answer": "Atoms are neutral and have no overall charge. They have the same number of protons as electrons",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 7,
+    "question": "Describe an ion",
+    "question_img": "",
+    "answer": "Ion is an atom that has lost or gained electrons",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 8,
+    "question": "Nuclear symbol",
+    "question_img": "",
+    "answer": "Nuclear symbols tell you the atomic and mass numbers of an element",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 9,
+    "question": "Name the arrows",
+    "question_img": "Na_mass_and_atomic_number",
+    "answer": "",
+    "answer_img": "Na_mass_and_atomic_number_answer",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 10,
+    "question": "Mass number",
+    "question_img": "",
+    "answer": "Mass number tells you the total number of protons and neutrons",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 11,
+    "question": "Atomic number",
+    "question_img": "",
+    "answer": "Atomic number tells you the number of protons",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 12,
+    "question": "Find the number of protons, neutrons and electrons in this atom",
+    "question_img": "potassium",
+    "answer": "Atomic mass = 39 , atomic number = 19, protons = 19, neutrons = 39 - 19 = 20, electrons = 19",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 13,
+    "question": "Find the number of protons, neutrons and electrons in this atom",
+    "question_img": "calcium",
+    "answer": "Atomic mass =  40, atomic number = 20, protons = 20, neutrons = 40 - 20 = 20, electrons = 20",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 14,
+    "question": "Find the number of protons, neutrons and electrons in this atom",
+    "question_img": "sodium",
+    "answer": "Atomic mass = 23 , atomic number = 11, protons = 11, neutrons = 23 - 11 = 12, electrons = 11",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 15,
+    "question": "Find the number of protons, neutrons and electrons in this atom",
+    "question_img": "carbon",
+    "answer": "Atomic mass = 12, atomic number = 6, protons = 6, neutrons = 12 - 6 = 6, electrons = 6",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 16,
+    "question": "Find the number of protons, neutrons and electrons in this atom",
+    "question_img": "nitrogen",
+    "answer": "Atomic mass =  14, atomic number = 7, protons = 7, neutrons = 14 - 7 = 7, electrons = 7",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 17,
+    "question": "Find the number of protons, neutrons and electrons in this ion",
+    "question_img": "chlorine_ion",
+    "answer": "Atomic mass = 35.5, atomic number = 17, protons = 17, neutrons = 36 - 17 = 19, electrons = 17 + 1 = 18",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 18,
+    "question": "Find the number of protons, neutrons and electrons in this ion",
+    "question_img": "sodium_ion",
+    "answer": "Atomic mass = 23 , atomic number = 11, protons = 11, neutrons = 23 - 11 = 12, electrons = 11 - 1 = 12",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 19,
+    "question": "Element",
+    "question_img": "",
+    "answer": "Element is a substance whose atoms have the same atomic number (ie. they have the same number of protons)",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 20,
+    "question": "Substance whose atoms have the same number of protons",
+    "question_img": "",
+    "answer": "Element",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 21,
+    "question": "Isotopes",
+    "question_img": "",
+    "answer": "Different forms of the same element, which have the same number of protons but a different number of neutrons.",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 22,
+    "question": "Form of an element that has the same atomic number but different mass number",
+    "question_img": "",
+    "answer": "Isotope",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 23,
+    "question": "Describe relative atomic mass (A\u1D63)",
+    "question_img": "",
+    "answer": "Average mass taking into account the different masses and abundances of all isotopes that make up the element",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 24,
+    "question": "Number of protons, neutrons and electrons in isotope of iron, which has mass number of 56 and atomic number 26",
+    "question_img": "iron",
+    "answer": "Protons = 26, neutrons = 56 - 26 = 30, electrons = 26",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 25,
+    "question": "Compounds",
+    "question_img": "",
+    "answer": "Substances formed from two or more elements",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 26,
+    "question": "Number of atoms of each element in CO\u2082",
+    "question_img": "",
+    "answer": "CO\u2082 contains one carbon and two oxygen atoms",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 27,
+    "question": "Number of atoms of each element in H\u2082O",
+    "question_img": "",
+    "answer": "H\u2082O contains two hydrogen and one oxygen atoms",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 28,
+    "question": "Chemical formula for ammonia",
+    "question_img": "",
+    "answer": "NH\u2083",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 29,
+    "question": "Chemical formula for water",
+    "question_img": "",
+    "answer": "H\u2082O",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 30,
+    "question": "Chemical formula for sodium chloride",
+    "question_img": "",
+    "answer": "NaCl",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 31,
+    "question": "Chemical formula for carbon monoxide",
+    "question_img": "",
+    "answer": "CO",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 32,
+    "question": "Chemical formula for hydrochloric acid",
+    "question_img": "",
+    "answer": "HCl",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 33,
+    "question": "Chemical formula for sodium carbonate",
+    "question_img": "",
+    "answer": "Na\u2082CO\u2083",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 34,
+    "question": "Chemical formula for carbon dioxide",
+    "question_img": "",
+    "answer": "CO\u2082",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 35,
+    "question": "Chemical formula for sulfuric acid",
+    "question_img": "",
+    "answer": "H\u2082SO\u2084",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 36,
+    "question": "Total number of atoms in H\u2082SO\u2084",
+    "question_img": "",
+    "answer": "H\u2082SO\u2084 contains 7 atoms",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 37,
+    "question": "Name NH\u2083 compound and the elements it contains",
+    "question_img": "",
+    "answer": "NH\u2083 is called ammonia contains one nitrogen and three hydrogen atoms",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 38,
+    "question": "Balance equation: H\u2082SO\u2084 + NaOH -> Na\u2082SO\u2084 + H\u2082O",
+    "question_img": "",
+    "answer": "H\u2082SO\u2084 + 2NaOH -> Na\u2082SO\u2084 + 2H\u2082O",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 39,
+    "question": "Balance equation: Fe + Cl\u2082 -> FeCl\u2083",
+    "question_img": "",
+    "answer": "2Fe + 3Cl\u2082 -> 2FeCl\u2083",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 40,
+    "question": "Balance equation: Mg + O2 -> MgO",
+    "question_img": "",
+    "answer": "2Mg + O\u2082 -> MgO",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 41,
+    "question": "Oxygen and hydrogen molecules have formed water. What is the word equation?",
+    "question_img": "",
+    "answer": "",
+    "answer_img": "oxygen_hydrogen_water",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 42,
+    "question": "Oxygen and hydrogen molecules have formed water. What is the balanced symbol equation?",
+    "question_img": "",
+    "answer": "",
+    "answer_img": "o2_hydrogen_water",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 43,
+    "question": "What can be separated during chromatography?",
+    "question_img": "",
+    "answer": "Chromatography can be used to separate mixtures of soluble compounds",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 44,
+    "question": "What can be separated during fractional distillation?",
+    "question_img": "",
+    "answer": "Fractional distillation can be used to separate a mixture of two or more liquids with different boiling temperatures. For example, ethanol can be separated from a mixture of ethanol and water because the two liquids have different boiling points.",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 45,
+    "question": "What is filtration used for?",
+    "question_img": "",
+    "answer": "Filtration is used to separate an insoluble solid from a liquid",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 46,
+    "question": "Describe crystallisation",
+    "question_img": "",
+    "answer": "When a product is made as a solution, one way to separate it from the solvent is to make crystals. This involves evaporating the solution to a much smaller volume and then leaving it to cool. As the solution cools, and more solvent evaporates, crystals form, and these can be obtained by filtration.",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 47,
+    "question": "Name this process. What is it used for?",
+    "question_img": "filtration",
+    "answer": "Filtration. It is used to separate solids from liquids",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 48,
+    "question": "What is simple distillation used for?",
+    "question_img": "",
+    "answer": "Separating out a liquid from a solution",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 49,
+    "question": "Methanol, ethanol and propan-1-ol have boiling points of 65\u1D52, 78\u1D52 and 97\u1D52 respectively. Which of these liquids will be collected first during fractional distillation?",
+    "question_img": "",
+    "answer": "Methanol",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 50,
+    "question": "Name this model",
+    "question_img": "plum_pudding_model",
+    "answer": "Plum pudding model",
+    "answer_img": "plum_pudding_model_answer",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 51,
+    "question": "Name the model and the arrows in the picture below",
+    "question_img": "bohr_nuclear_model",
+    "answer": "Niels Bohr's nuclear model of the atom",
+    "answer_img": "bohr_nuclear_model_answer",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 52,
+    "question": "Describe the plum pudding model",
+    "question_img": "plum_pudding_model",
+    "answer": "In the plum pudding model, atom is a ball of positive charge with electrons spread throughout it",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 53,
+    "question": "In Rutherford's experiment alpha particles were fired through gold foil. Most particles passed through the foil, but some were deflected at different angles. Why?",
+    "question_img": "",
+    "answer": "If plum pudding model was correct, most alpha particles would pass through the foil and would be deflected slightly. Actual deflections suggest that atoms contain a small nucleus where the positive charge is concentrated",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 54,
+    "question": "Electrons occupy shells. Which shell is filled first?",
+    "question_img": "",
+    "answer": "Lowest energy shell",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 55,
+    "question": "Number of electrons in: 1st shell, 2nd shell and 3rd shell",
+    "question_img": "",
+    "answer": "1st shell: 2, 2nd shell: 8, 3rd shell: 8",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 56,
+    "question": "Electronic structure of aluminium (proton number = 13)",
+    "question_img": "",
+    "answer": "",
+    "answer_img": "aluminum_electronic_structure",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 57,
+    "question": "Electronic structure of argon (proton number = 18)",
+    "question_img": "",
+    "answer": "",
+    "answer_img": "argon_electronic_structure",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 58,
+    "question": "Beryllium is a group II element. Give the number of electrons in its outer shell",
+    "question_img": "",
+    "answer": "2 electrons",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": ""
+  },
+  {
+    "id": 59,
+    "question": "Bromine reacts in a similar way to chlorine. Why could this be?",
+    "question_img": "",
+    "answer": "Bromine and chlorine are both in group VII and have the same number of electrons in their outer shell",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": ""
+  },
+  {
+    "id": 60,
+    "question": "Potassium forms 1+ ions. What ions are formed by sodium and why?",
+    "question_img": "",
+    "answer": "Sodium forms 1+ ions because it is in the same group I and reacts in a similar way",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": ""
+  },
+  {
+    "id": 61,
+    "question": "State three properties of metals",
+    "question_img": "",
+    "answer": "1. Strong, but can be bent or hammered into different shapes. 2. Good heat and electricity conductors. 3. Have high boiling and melting points.",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": ""
+  },
+  {
+    "id": 62,
+    "question": "Which group does this element belong to?",
+    "question_img": "sodium",
+    "answer": "Group I",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 63,
+    "question": "Which group does this element belong to?",
+    "question_img": "magnesium",
+    "answer": "Group II",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 64,
+    "question": "Which group does this element belong to?",
+    "question_img": "lithium",
+    "answer": "Group I",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 65,
+    "question": "Which group does this element belong to?",
+    "question_img": "potassium",
+    "answer": "Group I",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 66,
+    "question": "Which group does this element belong to?",
+    "question_img": "calcium",
+    "answer": "Group II",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 67,
+    "question": "What is filtration used for?",
+    "question_img": "",
+    "answer": "Filtration is used to separate an insoluble solid from a liquid",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 68,
+    "question": "When a product is made as a solution, one way to separate it from the solvent is to make crystals. This involves evaporating the solution to a much smaller volume and then leaving it to cool. As the solution cools, and more solvent evaporates, crystals form. What is this process called?",
+    "question_img": "",
+    "answer": "Crystallisation",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 69,
+    "question": "What is the overall charge of the following atom: Na?",
+    "question_img": "",
+    "answer": "0 (No charge)",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 70,
+    "question": "What is the overall charge of the following atom: Mg2+?",
+    "question_img": "",
+    "answer": "2+ (Positive)",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 71,
+    "question": "What is the overall charge of the following atom: Cl-?",
+    "question_img": "",
+    "answer": "-",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 72,
+    "question": "Mg atom has 12 protons. How many electrons does it have?",
+    "question_img": "",
+    "answer": "12 electrons",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 73,
+    "question": "Chlorine atom has atomic number of 17. How many protons does it have?",
+    "question_img": "",
+    "answer": "17 protons",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 74,
+    "question": "Carbon has atomic mass of 12 and an atomic number of 6. How many neutrons does it have?",
+    "question_img": "",
+    "answer": "6 neutrons",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 75,
+    "question": "Sodium has atomic mass of 23 and an atomic number of 11. How many neutrons does it have?",
+    "question_img": "",
+    "answer": "12 neutrons",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 76,
+    "question": "How many electrons in the outer shell of the following atom?",
+    "question_img": "sodium",
+    "answer": 1,
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 77,
+    "question": "How many electrons in the outer shell of the following atom?",
+    "question_img": "potassium",
+    "answer": 1,
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 78,
+    "question": "How many electrons in the outer shell of the following atom?",
+    "question_img": "calcium",
+    "answer": 2,
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 79,
+    "question": "How many electrons in the outer shell of the following atom?",
+    "question_img": "chlorine",
+    "answer": 7,
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 80,
+    "question": "Reason for increase in reactivity of group I elements going down the periodic table",
+    "question_img": "",
+    "answer": "Atoms become larger and outer electron becomes further from the nucleus. Force of attraction between the nucleus and outer electron decreases and therefore the outer electron is lost more easily.",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 81,
+    "question": "Forms of an element that have the same number of protons but different numbers of neutrons",
+    "question_img": "",
+    "answer": "Isotopes",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 82,
+    "question": "Which is the more reactive element: K or Li?",
+    "question_img": "",
+    "answer": "K",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 83,
+    "question": "Which is the more reactive element: Na or Li?",
+    "question_img": "",
+    "answer": "Na",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 84,
+    "question": "Which is the more reactive element: Ca or Mg?",
+    "question_img": "",
+    "answer": "Ca",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 85,
+    "question": "How does reactivity change when moving from the top to the bottom in the group I elements?",
+    "question_img": "",
+    "answer": "Reactivity increases",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 86,
+    "question": "Steps in the development of the periodic table",
+    "question_img": "",
+    "answer": "1. First scientists tried to classify elements by arranging them in order of their atomic weights. If the atomic weights are followed, some elements are placed in inappropriate groups. \n2. Mendeleev left gaps because he thought some elements were not discovered yet. \n3. Elements with properties predicted by Mendeleev were discovered later and filled the gaps.\n4. Knowledge of isotopes made it possible to explain why the order based on atomic weights was not always correct.",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 87,
+    "question": "In which group are halogens found?",
+    "question_img": "",
+    "answer": "Group VII",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 88,
+    "question": "How does reactivity change when moving from the top to the bottom in the group VII elements?",
+    "question_img": "",
+    "answer": "Reactivity decreases",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 89,
+    "question": "Will bromine displace iodine from sodium iodide? Why?",
+    "question_img": "",
+    "answer": "Bromine would displace iodine from sodium iodide because bromine is more reactive than iodine.",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 90,
+    "question": "Reason for decrease in reactivity of group VII elements going down the periodic table",
+    "question_img": "",
+    "answer": "Halogens react by gaining electrons to make a full outer-shell. As you go down the group the outer electrons are further away so there is less attraction between them and nucleus. Electrons are harder to gain so they become less reactive",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 91,
+    "question": "Give three trends when going down in Group VII",
+    "question_img": "",
+    "answer": "1. Less reactive. 2. Higher melting and boiling points. 3. Higher relative atomic masses",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 92,
+    "question": "How does boiling point change in noble gases as you move down the group",
+    "question_img": "",
+    "answer": "Boiling point increases",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 93,
+    "question": "Reason for an increase in boiling point when going down in group VII",
+    "question_img": "",
+    "answer": "Increase in number of electrons in each atom leading to greater intermolecular forces between them",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 94,
+    "question": "Neon is a gas at 25\u1D52. Name state of Helium at this temperature.",
+    "question_img": "",
+    "answer": "Helium is also a gas",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 95,
+    "question": "Which element has the highest boiling point: 1) Neon 2) Radon 3) Krypton",
+    "question_img": "",
+    "answer": "Radon",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 96,
+    "question": "Helium is in Group VII and is very unreactive. Explain why using its electronic structure",
+    "question_img": "",
+    "answer": "Helium has a full outer-shell so is electronically stable and does not readily lose or gain electrons",
+    "answer_img": "",
+    "module": 1,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 97,
+    "question": "Why do simple ions often have noble gas electronic structures?",
+    "question_img": "",
+    "answer": "Noble gas electronic structures and simple ions have a full outer shell of electrons, which is a very stable structure.",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 98,
+    "question": "Predict the charge of the ions formed by the following element: Lithium (Group I)",
+    "question_img": "lithium",
+    "answer": "+1",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 99,
+    "question": "Predict the charge of the ions formed by the following element: Calcium (Group II)",
+    "question_img": "calcium",
+    "answer": "+2",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 100,
+    "question": "Predict the charge of the ions formed by the following element: Chlorine (Group VII)",
+    "question_img": "chlorine",
+    "answer": -1,
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 101,
+    "question": "Predict the charge of the ions formed by the following element: Sodium (Group I)",
+    "question_img": "sodium",
+    "answer": "+1",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 102,
+    "question": "Where does the electron move in the following diagram? What ions are formed?",
+    "question_img": "dot_cross_diagram_NaCl",
+    "answer": "",
+    "answer_img": "dot_cross_diagram_answer_NaCl_answer",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 103,
+    "question": "Describe, in terms of electron transfer, how sodium (Na (Group I)) and Chlorine (Cl (Group VII)) react to form sodium chloride (NaCl)",
+    "question_img": "",
+    "answer": "Sodium atom gives up its outer electron, becoming Na\u207A ion. Chlorine atom picks up electron, becoming Cl\u207B ion.",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 104,
+    "question": "Describe, in terms of electron transfer, how sodium (Na (Group I)) and Oxygen (O (Group VI)) react to form sodium oxide (Na\u2082O)",
+    "question_img": "",
+    "answer": "Two sodium atoms each give up their single outer electron, becoming two Na\u207A ions. Oxygen atom picks up two electrons, becoming an O\u00B2\u207B",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 105,
+    "question": "What is the name of the structure formed by ionic compounds?",
+    "question_img": "",
+    "answer": "Giant ionic lattice",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 106,
+    "question": "What forces are holding ions together in a giant ionic lattice?",
+    "question_img": "",
+    "answer": "Electrostatic forces of attraction between oppositely charged ions, in all directions in the lattice",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 107,
+    "question": "Name this compound",
+    "question_img": "ball_and_stick_model",
+    "answer": "Sodium chloride",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 108,
+    "question": "Describe properties of ionic compounds related to their melting and boiling points",
+    "question_img": "",
+    "answer": "Ionic compounds have high melting and boiling points due to many strong bonds between ions. It takes a lot of energy to overcome this attraction",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 109,
+    "question": "Describe properties of ionic compounds related to their ability to conduct electricity when molten",
+    "question_img": "",
+    "answer": "When ionic compounds are solid, ions are held in place and do not conduct electricity. When they melt, ions are free to move and they will carry electric current",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 110,
+    "question": "Describe properties of ionic compounds related to their ability to conduct electricity when dissolved in water",
+    "question_img": "",
+    "answer": "Some ionic compounds dissolve in water. Ions separate and are all free to move in the solution, so they are able to carry electric current",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 111,
+    "question": "What is the empirical formula for the ionic compound?",
+    "question_img": "potassium_oxide_model",
+    "answer": "K\u2082O",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 112,
+    "question": "Name this compound. Does this compound have  high or low melting point?",
+    "question_img": "dot_cross_diagram_answer_NaCl_answer",
+    "answer": "Sodium chloride. It has a high melting point",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 113,
+    "question": "Why would this compound conduct electricity when molten?",
+    "question_img": "dot_cross_diagram_answer_NaCl_answer",
+    "answer": "When molten, ions are free to move in the solution, so they will carry electric current.",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 114,
+    "question": "What is the empirical formula for the ionic compound? Why?",
+    "question_img": "dot_cross_diagram_answer_NaCl_answer",
+    "answer": "Compound contains sodium and chloride ions. Sodium is in group 1 so forms 1+ ions, chlorine in Group 7 so forms 1- ions. Charges balance with one of each ion, therefore empirical formula is NaCl",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 115,
+    "question": "What bonds are formed between nonmetal atoms?",
+    "question_img": "",
+    "answer": "Covalent bonds",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 116,
+    "question": "Why are covalent bonds strong?",
+    "question_img": "",
+    "answer": "Positively charged nuclei of the bonded atoms are attracted to shared pair of electrons by electrostatic forces, making covalent bonds very strong.",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 117,
+    "question": "What is the molecular formula of this compound?",
+    "question_img": "ethane",
+    "answer": "C\u2082H\u2086",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 118,
+    "question": "What is the molecular formula of this compound?",
+    "question_img": "methane",
+    "answer": "CH\u2084",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 119,
+    "question": "What is the molecular formula of this compound?",
+    "question_img": "butane",
+    "answer": "C\u2084H\u2081\u2080",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 120,
+    "question": "Where would you place dots and crosses in methane?",
+    "question_img": "dot_cross_diagram_methane",
+    "answer": "",
+    "answer_img": "dot_cross_diagram_methane_answer",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 121,
+    "question": "Where would you place dots and crosses in ammonia?",
+    "question_img": "dot_cross_diagram_ammonia",
+    "answer": "",
+    "answer_img": "dot_cross_diagram_ammonia_answer",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 122,
+    "question": "What is this compound? What bonds are formed? How many bonds?",
+    "question_img": "dot_cross_diagram_hydrogen_answer",
+    "answer": "Hydrogen. Covalent bonds. Single covalent bond.",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 123,
+    "question": "What is this compound? What bonds are formed? How many bonds?",
+    "question_img": "dot_cross_diagram_chlorine_answer",
+    "answer": "Chlorine. Covalent bonds. Single bond.",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 124,
+    "question": "What is this compound? What bonds are formed? How many bonds?",
+    "question_img": "dot_cross_diagram_nitrogen_answer",
+    "answer": "Nitrogen. Covalent bonds. Triple bond.",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 125,
+    "question": "What is this compound? What bonds are formed? How many bonds?",
+    "question_img": "dot_cross_diagram_methane_answer",
+    "answer": "Methane. Covalent bonds. Four single covalent bonds.",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 126,
+    "question": "What is this compound? What bonds are formed? How many bonds?",
+    "question_img": "dot_cross_diagram_water_answer",
+    "answer": "Water. Covalent bonds. Two single bonds.",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 127,
+    "question": "Why is nitrogen a gas at room temperature?",
+    "question_img": "",
+    "answer": "Intermolecular bonds between nitrogen molecules are weak and do not need a lot energy to break",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 128,
+    "question": "Why does oxygen not conduct electricity?",
+    "question_img": "",
+    "answer": "Oxygen molecules are not charged, so there are no free electrons or ions",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 129,
+    "question": "Describe polymers",
+    "question_img": "",
+    "answer": "In a polymer, lots of small units are linked together to form a long molecule that has repeating sections.",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 130,
+    "question": "What is the molecular formula of poly(chloroethene)?",
+    "question_img": "",
+    "answer": "(C\u2082H\u2083Cl\u2081)\u2099",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 131,
+    "question": "Which compound has a higher melting point: diamond or poly(ethene)? Why?",
+    "question_img": "",
+    "answer": "Diamond has strong covalent bonds that have to be broken in order to melt it. Poly(ethene) has weak intermolecular forces  which are easily broken. Therefore diamond has a higher melting point",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 132,
+    "question": "How many covalent bonds are formed between carbon atoms in diamond?",
+    "question_img": "diamond",
+    "answer": "Diamond is made up of carbon atoms that each form four covalent bonds. This makes diamond really hard",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 133,
+    "question": "Why does diamond have a high melting point?",
+    "question_img": "diamond",
+    "answer": "Strong covalent bonds take a lot of energy to break and give diamond a very high melting point",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 134,
+    "question": "Why does diamond not conduct electricity?",
+    "question_img": "diamond",
+    "answer": "It does not conduct electricity because it has no free electrons or ions",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 135,
+    "question": "How many covalent bonds are formed between carbon atoms in graphite?",
+    "question_img": "graphite",
+    "answer": "Each carbon atom forms three covalent bonds, creating sheets of carbon atoms arranged in hexagons",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 136,
+    "question": "Why is graphite a good lubricating material?",
+    "question_img": "graphite",
+    "answer": "There are no covalent bonds between layers. They are held together weakly, so they are free to move over each other",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 137,
+    "question": "Why does graphite have a high melting point?",
+    "question_img": "graphite",
+    "answer": "Covalent bonds in graphite are strong in the layers and need a lot of energy to break",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 138,
+    "question": "Does graphite conduct electricity? Why?",
+    "question_img": "graphite",
+    "answer": "Each carbon atom has one electron that is delocalised (free). So graphite conducts electricity and thermal energy",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 139,
+    "question": "Give at least three uses of fullerenes",
+    "question_img": "",
+    "answer": "1) Lubricants 2) catalysts 3) Drug delivery 4) Strengthening of materials",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 140,
+    "question": "Why is the metallic element copper suitable for using in electrical circuits?",
+    "question_img": "",
+    "answer": "Copper is a good electrical conductor because it contains delocalised electrons which carry an electric current",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 141,
+    "question": "Why is an alloy of copper, rather than pure copper, used to make hinges for doors?",
+    "question_img": "",
+    "answer": "Pure copper is soft. Alloy of copper is harder so it is more suitable to make door hinges",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 142,
+    "question": "Name the three states of matter",
+    "question_img": "",
+    "answer": "Solid, Liquid and Gas",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 143,
+    "question": "What state does the (aq) symbol represent?",
+    "question_img": "",
+    "answer": "(aq) - aqueous, dissolved in water",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 144,
+    "question": "What state does the (s) symbol represent?",
+    "question_img": "",
+    "answer": "(s) - solid",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 145,
+    "question": "What state does the (g) symbol represent?",
+    "question_img": "",
+    "answer": "(g) - gas",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 146,
+    "question": "What state does the (l) symbol represent?",
+    "question_img": "",
+    "answer": "(l) - liquid",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 147,
+    "question": "Name the state that a substance without a definite shape or volume is in",
+    "question_img": "",
+    "answer": "Gas (g)",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 148,
+    "question": "What is the formula for surface area to volume ratio?",
+    "question_img": "",
+    "answer": "",
+    "answer_img": "surface_area_to_volume_ratio",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 149,
+    "question": "Roughly what is the size of particles studied in nanoscience?",
+    "question_img": "",
+    "answer": "Between 1 nm to 100 nm",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 150,
+    "question": "Give one application of nanoparticles that can conduct electricity",
+    "question_img": "",
+    "answer": "In electrical circuits for computer chips",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 151,
+    "question": "Give one risk of using nanoparticles in medicine",
+    "question_img": "",
+    "answer": "They might have long-term impacts on health",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 152,
+    "question": "What type of ions are formed by elements in Group I?",
+    "question_img": "",
+    "answer": "+1",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 153,
+    "question": "What type of ions are formed by elements in Group VII?",
+    "question_img": "",
+    "answer": -1,
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 154,
+    "question": "What type of ions are formed by elements in Group II?",
+    "question_img": "",
+    "answer": "+2",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 155,
+    "question": "What type of ions are formed by elements in Group VI?",
+    "question_img": "",
+    "answer": -2,
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 156,
+    "question": "Describe how ionic bonds are formed",
+    "question_img": "",
+    "answer": "When a metal and non-metal react together, the metal atom loses electrons to form positively charged ion and non-metal gains these electrons to form a negatively charged ion. These ions are attracted by electrostatic forces. This attraction is called ionic bond.",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 157,
+    "question": "Describe structure of a crystal of sodium chloride",
+    "question_img": "",
+    "answer": "It is a giant ionic lattice. Ions form a closely packed regular lattice arrangement and there are very strong electrostatic forces of attraction between oppositely charged ions, in all directions in the lattice",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 158,
+    "question": "List main properties of ionic compounds",
+    "question_img": "",
+    "answer": "High melting and boiling points. When solid they cannot conduct electricity. Some can dissolve in water and conduct electricity when dissolved",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 159,
+    "question": "Describe how covalent bonds form",
+    "question_img": "",
+    "answer": "Positively charged nuclei of the bonded atoms are attracted to the shared pair of electrons by electrostatic forces, making covalent bonds very strong",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 160,
+    "question": "Name the compound displayed in this dot and cross diagram",
+    "question_img": "dot_cross_diagram_hydrogen_answer",
+    "answer": "Hydrogen",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 161,
+    "question": "Name the compound displayed in this dot and cross diagram?",
+    "question_img": "dot_cross_diagram_water_answer",
+    "answer": "Water",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 162,
+    "question": "Name the compound displayed in this dot and cross diagram?",
+    "question_img": "dot_cross_hydrogen_chloride_answer",
+    "answer": "Hydrogen chloride",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 163,
+    "question": "Explain why simple molecular compounds typically have low melting and boiling points",
+    "question_img": "",
+    "answer": "Simple molecular compounds have weak intermolecular forces, which are easily broken",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 164,
+    "question": "Give three examples of giant covalent substances",
+    "question_img": "",
+    "answer": "Diamond, graphite, silicon dioxide",
+    "answer_img": "",
+    "module": 2,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 165,
+    "question": "Describe relative formula mass, M\u1D63",
+    "question_img": "",
+    "answer": "Relative atomic masses of all the atoms in the molecular formula added together",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 166,
+    "question": "Find relative atomic mass of MgCl\u2082. A\u1D63(Mg) = 24, A\u1D63(Cl) = 35.5",
+    "question_img": "",
+    "answer": "M\u1D63 = A\u1D63(Mg) + 2 x A\u1D63(Cl) = 24 + 2 x 35.5 = 95 g/mol",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 167,
+    "question": "Find relative atomic mass of H\u2082SO\u2084. A\u1D63(H) = 1, A\u1D63(S) = 32, A\u1D63(O) = 16",
+    "question_img": "",
+    "answer": "M\u1D63 = A\u1D63(H) x 2 + A\u1D63(S) + A\u1D63(O) x 4  = 1 x 2 + 32 + 16 x 4 = 98",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 168,
+    "question": "Find relative atomic mass of H\u2082O. A\u1D63(H) = 1, A\u1D63(O) = 16",
+    "question_img": "",
+    "answer": "M\u1D63 = A\u1D63(H) x 2 + A\u1D63(O)  = 1 x 2 + 16 = 18",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 169,
+    "question": "Give formula for percentage mass of an element in a compound",
+    "question_img": "",
+    "answer": "",
+    "answer_img": "formula_for_percentage_mass",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 170,
+    "question": "Describe one mole of a substance",
+    "question_img": "",
+    "answer": "It is the amount of that substance that contains an Avogadro number of particles (6.02 x 10\u00B2\u00B3)",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 171,
+    "question": "What is the mass of two moles of Carbon (A\u1D63 = 12)?",
+    "question_img": "",
+    "answer": "One mole of carbon will weigh 12g. So two moles of carbon 12 x 2 = 24g",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 172,
+    "question": "What is the mass of three moles of nitrogen gas, N\u2082 (M\u1D63 = 28)?",
+    "question_img": "",
+    "answer": "One mole of nitrogen gas, N\u2082 will weigh 28g. So three moles of N\u2082 = 28 x 3 = 84g",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 173,
+    "question": "What is the mass of two moles of Carbon dioxide (M\u1D63 = 44)?",
+    "question_img": "",
+    "answer": "One mole of carbon dioxide gas, CO\u2082, will weigh 44g. So two moles of CO\u2082 = 44 x 2 = 88g",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 174,
+    "question": "Formula for the number of moles in a given mass",
+    "question_img": "",
+    "answer": "",
+    "answer_img": "formula_for_the_number_of_moles_in_a_given_mass",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 175,
+    "question": "What is the mass of 2 mol of hydrogen gas (H\u2082)? (A\u1D63 of H = 1)",
+    "question_img": "",
+    "answer": "1) M\u1D63 of H\u2082 = 1 x 2 = 2\n2) Mass = No. of moles x M\u1D63 = 2 x 2 = 4 g",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 176,
+    "question": "What is the mass of 1 mol of oxygen gas (O\u2082)? (A\u1D63 of O = 16)",
+    "question_img": "",
+    "answer": "1) M\u1D63 of O\u2082 = 16 x 2 = 32\n2) Mass = No. of moles x M\u1D63 = 1 x 32 = 32 g",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 177,
+    "question": "What is the number of moles in 36 grams of water (H\u2082O)? (A\u1D63 of H = 1, A\u1D63 of O = 16)",
+    "question_img": "",
+    "answer": "1) M\u1D63 of H\u2082O = 1 x 2 +16 = 18\n2) No. of moles = Mass / M\u1D63 = 36 / 18 = 2 mol",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 178,
+    "question": "What is the number of moles in 119 grams of potassium bromide (KBr)? A\u1D63 of K = 39, A\u1D63 of Br = 80",
+    "question_img": "",
+    "answer": "1) M\u1D63 of KBr = 39 + 80 = 119\n2) No. of moles = Mass / M\u1D63 = 119 / 119 = 1 mol",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 179,
+    "question": "During a reaction, mass of the products have increased. Give a possible explanation for this",
+    "question_img": "",
+    "answer": "If the mass increases, it is probably because one of the reactants is a gas and all the products are solids, liquids or aqueous",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 180,
+    "question": "During a reaction, mass of the products have decreased. Give a possible explanation for this",
+    "question_img": "",
+    "answer": "If the mass decreases, it is probably because one of the products is a gas and all the reactants are solids, liquids or aqueous.",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 181,
+    "question": "Show that mass is conserved in this reaction: 2H\u2082 + O\u2082 -> 2H\u2082O.  (A\u1D63 of H = 1, A\u1D63 of O = 16)",
+    "question_img": "",
+    "answer": "1) Relative formula mass on the left = 2 x M\u1D63(H\u2082) + M\u1D63(O\u2082) = 2 x 2 + 2 x 16 = 36;\n2) Relative formula mass on the right = 2 x M\u1D63(H\u2082O) = 2 x (2 + 16) = 36\nTotal M\u1D63 on the left = Total M\u1D63 on the right",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 182,
+    "question": "One mole of N\u2082 reacts completely with three moles of H\u2082 to produce two moles of NH\u2083. Write a balanced reaction.",
+    "question_img": "",
+    "answer": "N\u2082 + 3H\u2082 -> NH\u2083",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 183,
+    "question": "What is a limiting reactant?",
+    "question_img": "",
+    "answer": "The reactant that is used up is called \"limiting reactant\" because it limits the amount of product that is being formed",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 184,
+    "question": "Formula for volume of gas at room temperature and pressure, when mass and M\u1D63 are known",
+    "question_img": "",
+    "answer": "",
+    "answer_img": "formula_for_volume_of_gas",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 185,
+    "question": "What is the volume occupied by one mole of any gas at room temperature and pressure?",
+    "question_img": "",
+    "answer": "24 dm\u00B3",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 186,
+    "question": "Describe concentration",
+    "question_img": "",
+    "answer": "Amount of substance in a certain volume of solution",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 187,
+    "question": "Formula for mass concentration of a solution",
+    "question_img": "",
+    "answer": "",
+    "answer_img": "formula_for_mass_concentration",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 188,
+    "question": "Formula for molar concentration of a solution",
+    "question_img": "",
+    "answer": "",
+    "answer_img": "formula_for_molar_concentration",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 189,
+    "question": "What is the mass concentration: 30g of NaCl dissolved in 0.5 dm\u00B3?",
+    "question_img": "",
+    "answer": "60 g/dm\u00B3",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 190,
+    "question": "What is the mass concentration: 20g of KCl dissolved in 2 dm\u00B3?",
+    "question_img": "",
+    "answer": "10 g/dm\u00B3",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 191,
+    "question": "What is the mass concentration: 30g of NaCl dissolved in 3 dm\u00B3?",
+    "question_img": "",
+    "answer": "10 g/dm\u00B3",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 192,
+    "question": "What is the molar concentration: 6 moles of NaCl dissolved in 3 dm\u00B3?",
+    "question_img": "",
+    "answer": "2 mol/dm\u00B3",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 193,
+    "question": "What is the molar concentration: 4 moles of NaCl dissolved in 1 dm\u00B3?",
+    "question_img": "",
+    "answer": "4 mol/dm\u00B3",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 194,
+    "question": "What is the molar concentration: 0.5 moles of NaCl dissolved in 2 dm\u00B3?",
+    "question_img": "",
+    "answer": "0.25 mol/dm\u00B3",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 195,
+    "question": "Experiment that lets you find the volume needed for two solutions to react together completely",
+    "question_img": "",
+    "answer": "Titration",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 196,
+    "question": "Find the concentration in g/dm\u00B3 for sulphuric acid solution at 2 mol/dm\u00B3 molar concentration. Molar mass of sulphuric acid = 98 g/mol",
+    "question_img": "",
+    "answer": "Concentration in grams = moles x relative formula mass = 2 x 98 = 196 g/dm\u00B3",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 197,
+    "question": "Find the concentration in g/dm\u00B3 for hydrochloric acid solution at 2 mol/dm\u00B3 molar concentration. Molar mass of hydrochloric acid = 36.5 g/mol",
+    "question_img": "",
+    "answer": "Concentration in grams = moles x relative formula mass = 2 x 36.5 = 73 g/dm\u00B3",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 199,
+    "question": "What can the atom economy tell you about the reaction?",
+    "question_img": "",
+    "answer": "Atom economy of a reaction tells you how much of the mass of the reactants is wasted when manufacturing a chemical and how much ends up as useful products",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 200,
+    "question": "Equation for atom economy",
+    "question_img": "",
+    "answer": "",
+    "answer_img": "equation_for_atom_economy",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 201,
+    "question": "What does percentage yield tell you about a reaction?",
+    "question_img": "",
+    "answer": "Percentage yield tells you about the overall success of an experiment. It compares what you think you should get (theoretical yield) with what you get in practice (actual yield).",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 202,
+    "question": "Percentage yield formula",
+    "question_img": "",
+    "answer": "",
+    "answer_img": "percentage_yield_formula",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 203,
+    "question": "What is the theoretical minimum possible percentage yield?",
+    "question_img": "",
+    "answer": "0%",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 204,
+    "question": "What is the theoretical maximum possible percentage yield?",
+    "question_img": "",
+    "answer": "100%",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 205,
+    "question": "What is the percentage yield of sodium chloride from the following experiment: theoretical yield of sodium chloride is 4g, actual yield is 2g",
+    "question_img": "",
+    "answer": "50%",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 206,
+    "question": "What is the percentage yield of sodium chloride from the following experiment: theoretical yield of potassium chloride is 8g, actual yield is 2g.",
+    "question_img": "",
+    "answer": "25%",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 207,
+    "question": "What is the percentage yield of ammonia from the following experiment: theoretical yield of ammonia is 10g, actual yield is 1g",
+    "question_img": "",
+    "answer": "10%",
+    "answer_img": "",
+    "module": 3,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 208,
+    "question": "What does the pH scale measure?",
+    "question_img": "",
+    "answer": "pH scale measures how acidic or alkaline a solution is",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 209,
+    "question": "What does a low pH mean?",
+    "question_img": "",
+    "answer": "The lower the pH, the more acidic a solution it is",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 210,
+    "question": "What does a high pH mean?",
+    "question_img": "",
+    "answer": "The higher the pH, the more alkaline a solution is",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 211,
+    "question": "What pH does a neutral substance have?",
+    "question_img": "",
+    "answer": "A neutral substance has a pH of 7",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 212,
+    "question": "Vinegar has a pH of 3. Is it acidic or alkaline?",
+    "question_img": "",
+    "answer": "Acidic",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 213,
+    "question": "Car battery acid has a pH of 1. Is it acidic or alkaline?",
+    "question_img": "",
+    "answer": "Acidic",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 214,
+    "question": "Washing-up liquid has a pH of 8.5. Is it acidic or alkaline?",
+    "question_img": "",
+    "answer": "Alkaline",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 215,
+    "question": "Bleach has a pH of 12.1. Is it acidic or alkaline?",
+    "question_img": "",
+    "answer": "Alkaline",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 216,
+    "question": "Normal rain has a pH of 5.8. Is it acidic or alkaline?",
+    "question_img": "",
+    "answer": "Acidic",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 217,
+    "question": "Caustic soda has a pH of 13.5. Is it acidic or alkaline?",
+    "question_img": "",
+    "answer": "Alkaline",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 218,
+    "question": "What does a pH indicator dye do?",
+    "question_img": "",
+    "answer": "Indicator is a dye that changes colour depending on whether it's above or below a certain pH",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 219,
+    "question": "Name the devices in the image. The value given on the digital display is the pH.",
+    "question_img": "pH_probe",
+    "answer": "1) pH probe 2) pH meter",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 220,
+    "question": "Describe an acid",
+    "question_img": "",
+    "answer": "Acid is a substance that forms aqueous solutions with a pH of less than 7",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 221,
+    "question": "Describe a base",
+    "question_img": "",
+    "answer": "Base is a substance with a pH greater than 7",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 222,
+    "question": "Describe an alkali",
+    "question_img": "",
+    "answer": "Alkali is a base that dissolves in water to form a solution",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 223,
+    "question": "Describe neutralisation",
+    "question_img": "",
+    "answer": "Neutralisation is a reaction between acids and bases",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 224,
+    "question": "Name this reaction: acid + base → salt + water",
+    "question_img": "",
+    "answer": "Neutralisation",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 225,
+    "question": "Name this reaction: H\u207A (aq) + OH\u207B → H\u2082O",
+    "question_img": "",
+    "answer": "Neutralisation",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 226,
+    "question": "What is the pH of products formed after a neutralisation reaction?",
+    "question_img": "",
+    "answer": "pH = 7",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 227,
+    "question": "Colour of a universal indicator turned red. Is the tested compound acidic, alkaline or neutral?",
+    "question_img": "",
+    "answer": "acidic",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 228,
+    "question": "Colour of a universal indicator turned blue. Is the tested compound acidic, alkaline or neutral?",
+    "question_img": "",
+    "answer": "alkaline",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 229,
+    "question": "Colour of a universal indicator turned green. Is the tested compound acidic, alkaline or neutral?",
+    "question_img": "",
+    "answer": "neutral",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 230,
+    "question": "You test lemon juice with a universal pH indicator. What color does the indicator turn to?",
+    "question_img": "",
+    "answer": "Red",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 231,
+    "question": "You test water with a universal pH indicator. What color does the indicator turn to?",
+    "question_img": "",
+    "answer": "Green",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 232,
+    "question": "You test stomach acid with a universal pH indicator. What color does the indicator turn to?",
+    "question_img": "",
+    "answer": "Red",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 233,
+    "question": "You test bleach with a universal pH indicator. What color does the indicator turn to?",
+    "question_img": "",
+    "answer": "Blue",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 234,
+    "question": "You test sodium chloride and water solution with a universal pH indicator. What color does the indicator turn to?",
+    "question_img": "",
+    "answer": "Green",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 235,
+    "question": "Describe titration",
+    "question_img": "",
+    "answer": "Method of analysing concentrations of solutions",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 236,
+    "question": "Name the pieces of equipment in the following image",
+    "question_img": "titration",
+    "answer": "1) Pipette 2) Conical flask 3) Burette",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 237,
+    "question": "What is the color of litmus in alkalis?",
+    "question_img": "",
+    "answer": "Blue",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 238,
+    "question": "What is the color of litmus in acids?",
+    "question_img": "",
+    "answer": "Red",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 239,
+    "question": "What is the color of phenolphthalein in acids?",
+    "question_img": "",
+    "answer": "Colourless",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 240,
+    "question": "What is the color of phenolphthalein in alkalis?",
+    "question_img": "",
+    "answer": "Pink",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 241,
+    "question": "What is the color of methyl orange in acids?",
+    "question_img": "",
+    "answer": "Red",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 242,
+    "question": "What is the color of methyl orange in alkalis?",
+    "question_img": "",
+    "answer": "Yellow",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 243,
+    "question": "How do you determine when the end point of a titration is reached?",
+    "question_img": "",
+    "answer": "The indicator changes colour",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 244,
+    "question": "Give two reasons why you should repeat a titration until you have consistent readings",
+    "question_img": "",
+    "answer": "Increase the accuracy of the results and spot any anomalous results",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 245,
+    "question": "Acids ionise in aqueous solutions. What ions are produced in this process?",
+    "question_img": "",
+    "answer": "Hydrogen ions, H\u207A",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 246,
+    "question": "Describe strong acids",
+    "question_img": "",
+    "answer": "Strong acids are acids that completely ionize in water. All acid particles dissociate to release H\u207A ions",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 247,
+    "question": "Describe weak acids",
+    "question_img": "",
+    "answer": "Acids that do not fully ionise in solution. Only a small portion of acid particles dissociate to release H\u207A ions",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 248,
+    "question": "Why are strong acids more reactive than weak acids?",
+    "question_img": "",
+    "answer": "Reactions of acids involve H\u207A ions reacting with other substances. If the concentration of H\u207A ions is higher, the rate of the reaction will be faster, so strong acids will be more reactive than weak acids of the same concentration",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 249,
+    "question": "What concentration does the pH provide?",
+    "question_img": "",
+    "answer": "Concentration of H\u207A ions in the solution",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 250,
+    "question": "What does the acid strength tell you?",
+    "question_img": "",
+    "answer": "Acid strength tells you what proportion of the acid molecule ionise the water",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 251,
+    "question": "What does the concentration of the acid tell you?",
+    "question_img": "",
+    "answer": "Concentration measures how much acid there is in a certain volume of water",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 252,
+    "question": "Name the metal oxides and metal hydroxides that dissolve in water",
+    "question_img": "",
+    "answer": "Alkalis",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 253,
+    "question": "What is formed when metal oxides or metal hydroxides react with acids?",
+    "question_img": "",
+    "answer": "Salt and water",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 254,
+    "question": "Name the salt formed in the following reaction: 2HCl + CuO",
+    "question_img": "",
+    "answer": "Copper chloride",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 255,
+    "question": "Name the salt formed in the following reaction: H\u2082SO\u2084 + 2KOH",
+    "question_img": "",
+    "answer": "Potassium sulfate",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 256,
+    "question": "Name the salt formed in the following reaction: HNO\u2083 + NaOH",
+    "question_img": "",
+    "answer": "Sodium nitrate",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 257,
+    "question": "What is formed when metal oxides or metal carbonates react with acids?",
+    "question_img": "",
+    "answer": "Salt, water and carbon dioxide",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 258,
+    "question": "Name the salt formed in the following reaction: 2HCl + Na\u2082CO\u2083",
+    "question_img": "",
+    "answer": "Sodium chloride",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 259,
+    "question": "Name the salt formed in the following reaction: H\u2082SO\u2084 + CaCO\u2083",
+    "question_img": "",
+    "answer": "Calcium sulfate",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 260,
+    "question": "What does the reactivity series list?",
+    "question_img": "",
+    "answer": "Reactivity series lists metals in order of their reactivity towards other substances",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 261,
+    "question": "What determines the reactivity of a metal?",
+    "question_img": "",
+    "answer": "Reactivity in metals is determined by how easily they lose electrons - forming positive ions. The higher up in the reactivity series a metal is, the more easily it reacts with water or acid",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 262,
+    "question": "Is Magnesium more reactive than Potassium?",
+    "question_img": "",
+    "answer": "Magnesium is less reactive than potassium",
+    "answer_img": "reactivity_series",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 263,
+    "question": "Is Lithium more reactive than Zinc?",
+    "question_img": "",
+    "answer": "Lithium is more reactive than Zinc",
+    "answer_img": "reactivity_series",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 264,
+    "question": "Is Copper more reactive than Calcium?",
+    "question_img": "",
+    "answer": "Copper is less reactive than Calcium",
+    "answer_img": "reactivity_series",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 265,
+    "question": "Is Iron more reactive than Sodium?",
+    "question_img": "",
+    "answer": "Iron is less reactive than Sodium",
+    "answer_img": "reactivity_series",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 266,
+    "question": "Formula for reaction of metals with water",
+    "question_img": "",
+    "answer": "Metal + Water →  Metal Hydroxide + Hydrogen",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 267,
+    "question": "Which of these will not react with water: Potassium, iron, sodium, zinc or copper",
+    "question_img": "",
+    "answer": "Zinc, iron and copper",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 268,
+    "question": "Balanced equation, including state symbols, for reaction of sodium and water",
+    "question_img": "",
+    "answer": "2Na(s) + 2H\u2082O(l) → 2NaOH(aq) + H\u2082(g)",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 269,
+    "question": "Balanced equation, including state symbols, for reaction of potassium and water",
+    "question_img": "",
+    "answer": "2K(s) + 2H\u2082O(l) → 2KOH(aq) + H\u2082(g)",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 270,
+    "question": "Balanced equation, including state symbols, for reaction of lithium and water",
+    "question_img": "",
+    "answer": "2Li(s) + 2H\u2082O(l) → 2LiOH(aq) + H\u2082(g)",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 271,
+    "question": "Balanced equation, including state symbols, for reaction of calcium and water",
+    "question_img": "",
+    "answer": "Ca(s) + 2H\u2082O(l) → Ca(OH)\u2082(aq) + H\u2082(g)",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 272,
+    "question": "Name the reaction during which a metal separates from its oxide",
+    "question_img": "",
+    "answer": "Reduction",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 273,
+    "question": "Name the reaction during which metals react with oxygen to form oxides",
+    "question_img": "",
+    "answer": "Oxidation",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 274,
+    "question": "Equation for when magnesium is oxidised to make magnesium oxide",
+    "question_img": "",
+    "answer": "2Mg + O\u2082 → 2MgO",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 275,
+    "question": "Equation for when copper oxide is reduced to copper",
+    "question_img": "",
+    "answer": "2CuO + C → 2Cu +CO\u2082",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 276,
+    "question": "Can iron be extracted by reduction using carbon?",
+    "question_img": "",
+    "answer": "Yes, iron is lower in the reactivity series than carbon, so it can be extracted by reduction using carbon",
+    "answer_img": "reactivity_series",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 277,
+    "question": "Can Lithium be extracted using carbon?",
+    "question_img": "",
+    "answer": "No, Lithium is higher in the reactivity series than carbon, so it cannot be extracted by reduction using carbon",
+    "answer_img": "reactivity_series",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 278,
+    "question": "Can Potassium be extracted using carbon?",
+    "question_img": "",
+    "answer": "No, Potassium is higher in the reactivity series than carbon, so it cannot be extracted by reduction using carbon",
+    "answer_img": "reactivity_series",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 279,
+    "question": "Can Copper be extracted using carbon?",
+    "question_img": "",
+    "answer": "Yes, Copper is lower in the reactivity series than carbon, so it can be extracted by reduction using carbon",
+    "answer_img": "reactivity_series",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 280,
+    "question": "Can Magnesium be extracted using carbon?",
+    "question_img": "",
+    "answer": "No, Magnesium is higher in the reactivity series than carbon, so it cannot be extracted by reduction using carbon",
+    "answer_img": "reactivity_series",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 281,
+    "question": "Can Sodium be extracted using carbon?",
+    "question_img": "",
+    "answer": "No, Sodium is higher in the reactivity series than carbon, so it cannot be extracted by reduction using carbon",
+    "answer_img": "reactivity_series",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 282,
+    "question": "Can Zinc be extracted using carbon?",
+    "question_img": "",
+    "answer": "Yes, Zinc is lower in the reactivity series than carbon, so it can be extracted by reduction using carbon",
+    "answer_img": "reactivity_series",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 283,
+    "question": "Sodium cannot be extracted from its ore by reduction using carbon. Suggest a method to extract Sodium from its ore.",
+    "question_img": "",
+    "answer": "Electrolysis",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 284,
+    "question": "Some metals are unreactive and can be found in the earth as the metal itself. Which of these can be mined as its elemental form? 1) Gold 2) Copper 3) Iron",
+    "question_img": "",
+    "answer": "1) Gold",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 285,
+    "question": "Oxidation",
+    "question_img": "",
+    "answer": "Loss of electrons",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 286,
+    "question": "Reduction",
+    "question_img": "",
+    "answer": "Gain of electrons",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 287,
+    "question": "Displacement reaction",
+    "question_img": "",
+    "answer": "In a displacement reaction, a more reactive metal will displace a less reactive metal from its compound",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 288,
+    "question": "Which metal is found in nature on its own: 1) Sodium 2) Gold 3) Iron 4) Calcium?",
+    "question_img": "",
+    "answer": "2) Gold",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 289,
+    "question": "What is the metal produced in the following reaction: 2Fe\u2082O\u2083(s) + 3C(s) → 4Fe(l) + 3CO\u2082(g)?",
+    "question_img": "",
+    "answer": "Iron",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 290,
+    "question": "What is the product from a reaction where an acid is neutralised by an alkali?",
+    "question_img": "",
+    "answer": "Salts and water",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 291,
+    "question": "What is the method used to produce solid salts from salt solutions?",
+    "question_img": "",
+    "answer": "Crystallisation",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 292,
+    "question": "Is a solution with a pH of 6.5 acidic, alkaline or neutral?",
+    "question_img": "",
+    "answer": "Acidic",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 293,
+    "question": "Is a solution with a pH of 12 acidic, alkaline or neutral?",
+    "question_img": "",
+    "answer": "Alkaline",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 294,
+    "question": "Is a solution with a pH of 7 acidic, alkaline or neutral?",
+    "question_img": "",
+    "answer": "Neutral",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 295,
+    "question": "Method used to determine the volumes of acid and alkali that must be mixed to obtain a solution containing only salt and water",
+    "question_img": "",
+    "answer": "Titration",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 296,
+    "question": "Acid is completely ionised in aqueous solution. Is this acid strong or weak?",
+    "question_img": "",
+    "answer": "Strong acid",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 297,
+    "question": "Acid is only partially ionised in aqueous solution. Is this acid strong or weak?",
+    "question_img": "",
+    "answer": "Weak acid",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 298,
+    "question": "The process where an electric current is passed through a liquid that conducts electricity",
+    "question_img": "",
+    "answer": "Electrolysis",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 299,
+    "question": "Which ions move towards the cathode?",
+    "question_img": "Electrolysis_molten",
+    "answer": "Positive ions",
+    "answer_img": "Electrolysis_molten",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 300,
+    "question": "Which ions move towards the anode?",
+    "question_img": "Electrolysis_molten",
+    "answer": "Negative ions",
+    "answer_img": "Electrolysis_molten",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 301,
+    "question": "Why an ionic solid cannot be electrolysed?",
+    "question_img": "",
+    "answer": "Ions are in fixed positions and cannot move in an ionic solid",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 302,
+    "question": "Why molten ionic compounds can be electrolysed?",
+    "question_img": "",
+    "answer": "Ions are free to move around and conduct electricity in molten ionic compounds",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 303,
+    "question": "What happens to the ions at the cathode during electrolysis?",
+    "question_img": "Electrolysis_molten",
+    "answer": "Positive metal ions are reduced to the element at the cathode.",
+    "answer_img": "Electrolysis_molten",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 304,
+    "question": "What happens to the ions at the anode during electrolysis?",
+    "question_img": "Electrolysis_molten",
+    "answer": "Negative nonmetal ions are oxidised to the element at the anode.",
+    "answer_img": "Electrolysis_molten",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 305,
+    "question": "What is the method used when a metal is too reactive and needs to be reduced with carbon?",
+    "question_img": "",
+    "answer": "Electrolysis",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 306,
+    "question": "Electrolysis was conducted on sodium chloride. What was produced at 1) Cathode, 2) Anode?",
+    "question_img": "Electrolysis_NaCl",
+    "answer": "1) Sodium 2) Chlorine",
+    "answer_img": "Electrolysis_NaCl",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 307,
+    "question": "A solution of copper(II) sulfate contains ions: Cu\u00B2\u207A, SO\u2084\u00B2\u207B, H\u207A and OH\u207B. Explain what is produced at the cathode and why?",
+    "question_img": "Electrolysis_CuSO4",
+    "answer": "Copper metal is less reactive than hydrogen, so it is produced and coats the electrode",
+    "answer_img": "Electrolysis_CuSO4",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 308,
+    "question": "A solution of copper(II) sulfate contains ions: Cu\u00B2\u207A, SO\u2084\u00B2\u207B, H\u207A and OH\u207B. Explain what is produced at the anode and why?",
+    "question_img": "Electrolysis_CuSO4",
+    "answer": "There are no halide ions present. Oxygen and water are produced at the anode",
+    "answer_img": "Electrolysis_CuSO4",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 309,
+    "question": "What type of current used in an electrolysis apparatus?",
+    "question_img": "",
+    "answer": "Direct current",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 310,
+    "question": "A solution of sodium chloride contains ions: Na\u207A, Cl\u207B, H\u207A and OH\u207B. Explain what is produced at the cathode and why?",
+    "question_img": "Electrolysis_NaCl",
+    "answer": "Sodium is more reactive than hydrogen. Therefore hydrogen gas is produced at the cathode",
+    "answer_img": "Electrolysis_NaCl",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 311,
+    "question": "A solution of sodium chloride contains ions: Na\u207A, Cl\u207B, H\u207A and OH\u207B. Explain what is produced at the anode and why?",
+    "question_img": "Electrolysis_NaCl",
+    "answer": "Chloride ions are present in the solution. Therefore chlorine gas is produced at the anode",
+    "answer_img": "Electrolysis_NaCl",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 312,
+    "question": "Half equations for electrolysis of CuSO\u2084",
+    "question_img": "",
+    "answer": "Cu\u00B2\u207A + 2e\u207B → Cu and 4OH\u207B → O\u2082 + 2H\u2082O + 4e\u207B",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 313,
+    "question": "Half equations for electrolysis of NaCl",
+    "question_img": "",
+    "answer": "2H\u207A + 2e\u207B → H\u2082 and 2Cl\u207B → Cl\u2082 + 2e\u207B",
+    "answer_img": "",
+    "module": 4,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 314,
+    "question": "Exothermic reaction",
+    "question_img": "",
+    "answer": "Exothermic reaction transfers energy to the surroundings and causes a rise in temperature",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 315,
+    "question": "Is combustion an exothermic or an endothermic reaction?",
+    "question_img": "",
+    "answer": "Combustion (eg. burning of fuels) is an exothermic reaction",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 316,
+    "question": "Give examples of exothermic reactions",
+    "question_img": "",
+    "answer": "1) combustion 2) neutralisation 3) oxidation reactions",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 317,
+    "question": "Give examples of uses for exothermic reactions",
+    "question_img": "",
+    "answer": "1) Some hand warmers use oxidation of iron in air to release energy. 2) Self heating cans of hot chocolate and coffee rely on exothermic reactions between chemicals in their bases",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 318,
+    "question": "Endothermic reaction",
+    "question_img": "",
+    "answer": "Endothermic reaction is one which takes in energy from the surroundings and causes a drop in temperature",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 319,
+    "question": "Give examples of endothermic reactions",
+    "question_img": "",
+    "answer": "1) Reaction between citric acid and sodium hydrocarbonate. 2) Thermal decomposition of calcium carbonate into calcium oxide and carbon dioxide",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 320,
+    "question": "Reaction profiles",
+    "question_img": "",
+    "answer": "Reaction profiles are diagrams that show the relative energies of the reactants and products in a reaction, and how the energy changes over the course of the reaction",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 321,
+    "question": "Describe this graph. Is the reaction exothermic or endothermic?",
+    "question_img": "Exothermic_graph",
+    "answer": "Reaction is exothermic. Products are at a lower energy than the reactants. Difference in height represents the overall energy change in the reaction (energy given out) per mole.",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 322,
+    "question": "Describe this graph. Is the reaction exothermic or endothermic?",
+    "question_img": "Endothermic_graph",
+    "answer": "Reaction is endothermic. Products are at a higher energy than the reactants. Difference in height represents the overall energy change during the reaction (energy taken in) per mole.",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 323,
+    "question": "Activation energy (E\u2090)",
+    "question_img": "",
+    "answer": "Minimum amount of energy the reactants need to collide with each other and react. If activation energy is greater, more energy needed to start the reaction",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 324,
+    "question": "Is bond breaking an exothermic or endothermic process?",
+    "question_img": "",
+    "answer": "Endothermic, because energy must be supplied to break existing bonds",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 325,
+    "question": "Is bond forming an exothermic or endothermic process?",
+    "question_img": "",
+    "answer": "Exothermic, because energy is released when new bonds are formed",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 326,
+    "question": "Is this an endothermic or exothermic reaction?",
+    "question_img": "Endothermic_HCl",
+    "answer": "Endothermic",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 327,
+    "question": "Is this an endothermic or exothermic reaction?",
+    "question_img": "Exothermic_CO",
+    "answer": "Exothermic",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 328,
+    "question": "Name the reaction when the energy released by forming bonds is greater than the energy used to break them",
+    "question_img": "",
+    "answer": "Exothermic",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 329,
+    "question": "Name the reaction when the energy used to break bonds is greater than the energy released by forming them",
+    "question_img": "",
+    "answer": "Endothermic",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 330,
+    "question": "Energy needed to break H\u2082 and Cl\u2082 bonds = 678 kJ/mol, energy released by forming new bonds = 862 kJ/mol. What is the overall energy change? Is reaction endothermic?",
+    "question_img": "",
+    "answer": "-184 kJ/mol, reaction is exothermic",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 331,
+    "question": "Energy needed to break N\u2082 and H\u2082 bonds = 2249 kJ/mol, energy released by forming new bonds = 2346 kJ/mol. What is the overall energy change? Is reaction endothermic?",
+    "question_img": "",
+    "answer": "-97 kJ/mol, reaction is exothermic",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 332,
+    "question": "Electrochemical cell",
+    "question_img": "",
+    "answer": "An electrochemical cell is a basic system made up of two different electrodes in contact with an electrolyte",
+    "answer_img": "electrochemical_cell",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 333,
+    "question": "What would be the voltage of a cell when metal for electrode A is lead and for electrode B is tin?",
+    "question_img": "Electrode_table",
+    "answer": "0.01V",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 334,
+    "question": "Total voltage in this battery:",
+    "question_img": "three_cell_image",
+    "answer": "Voltage = 1 + 1 + 2 = 4V",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 335,
+    "question": "Total voltage in this battery:",
+    "question_img": "two_cell_image",
+    "answer": "Voltage = 0.75 + 0.75 = 1.5V",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 336,
+    "question": "Total voltage in this battery:",
+    "question_img": "four_cell_image",
+    "answer": "Voltage = 5 + 3 + 2 + 2 = 12V",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 337,
+    "question": "Why are alkaline batteries non-rechargeable?",
+    "question_img": "",
+    "answer": "Alkaline batteries, contain cells which use irreversible reactions. Once one of the reactants is used up, they do not produce any more charge",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 338,
+    "question": "Rate of a chemical reaction",
+    "question_img": "",
+    "answer": "Quantity of a reactant used or the quantity of product formed over time",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 339,
+    "question": "Bond energy",
+    "question_img": "",
+    "answer": "Amount of energy needed to break one mole of a particular covalent bond",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 340,
+    "question": "Fuel cell",
+    "question_img": "",
+    "answer": "Fuel cell is an electrical cell that is supplied with a fuel and oxygen. It uses energy from the reaction between them to produce electical energy efficiently",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 341,
+    "question": "Product from a hydrogen-oxygen fuel cell",
+    "question_img": "",
+    "answer": "Water",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 342,
+    "question": "Disadvantages of a hydrogen fuel cell",
+    "question_img": "",
+    "answer": "1) Hydrogen takes up alot of space to store as it is a gas. 2) Hydrogen is explosive, so it is difficult to store it safely. 3) Hydrogen is often made from fossil fuels, or by electrolysis, which uses electricity",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 343,
+    "question": "Half equation for reaction of oxygen in a hydrogen-oxygen fuel cell",
+    "question_img": "",
+    "answer": "O\u2082+4H\u207A+4e\u207B→2H\u2082O",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 344,
+    "question": "Half equation for reaction of hydrogen in a hydrogen-oxygen fuel cell",
+    "question_img": "",
+    "answer": "H\u2082 → 2H\u207A+2e\u207B",
+    "answer_img": "",
+    "module": 5,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 345,
+    "question": "What does rate of a chemical reaction depends on?",
+    "question_img": "",
+    "answer": "1) Temperature. 2) Concentration of a solution or pressure of a gas. 3) Surface area. 4) Presence of catalyst.",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 346,
+    "question": "How does an increase in temperature lead to an increase in rate of reaction?",
+    "question_img": "",
+    "answer": "When temperature is increased, particles move faster and thus are colliding more frequently. Also, more particles have enough energy to make a reaction happen",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 347,
+    "question": "How does an increase in concentration lead to an increase in rate of reaction?",
+    "question_img": "",
+    "answer": "An increase in concentration means there are more particles knocking about in the same volume of water, thus reactant particles collide more frequently",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 348,
+    "question": "How does an increase in pressure lead to an increase in rate of reaction?",
+    "question_img": "",
+    "answer": "An increase in pressure of a gas means that the same number of particles occupy a smaller space, thus reactant particles collide more frequently",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 349,
+    "question": "How does an increase in surface area lead to an increase in rate of reaction?",
+    "question_img": "",
+    "answer": "Breaking up a solid into smaller pieces will increase its surface area to volume ratio. This means that for the same volume of solid,the particles around it will have more area to work on - so there will be more frequent collisions",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 350,
+    "question": "Catalyst",
+    "question_img": "",
+    "answer": "A catalyst is a substance that speeds up a reaction, without being used up in the reaction itself. This means it is not part of the overall reaction equation",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 351,
+    "question": "How does a catalyst work?",
+    "question_img": "",
+    "answer": "Different catalysts are needed for different reactions, but they all work by decreasing the activation energy needed for the reaction to occur. They do this by providing an alternative reaction pathway with a lower activation energy",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 352,
+    "question": "Biological catalysts",
+    "question_img": "",
+    "answer": "Enzymes. They catalyse reactions in living things",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 353,
+    "question": "Which has the faster reaction rate: 1) 2g solid strip of magnesium with water 2) 2g of powdered magnesium with water?",
+    "question_img": "",
+    "answer": "Answer is 2) because breaking up a solid into smaller pieces will increase its surface area to volume ratio. This means that for the same volume of solid, the particles around it will have more area to work on, so there will be more frequent collisions",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 354,
+    "question": "Which has the faster reaction rate: 1) 2 mol/dm\u00B3 KOH with excess ethanoic acid. 2) 4 mol/dm\u00B3 KOH with excess ethanoic acid?",
+    "question_img": "",
+    "answer": "Answer is 2) because an increase in concentration means there are more particles knocking about in the same volume of water, thus reactant particles collide more frequently.",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 355,
+    "question": "Rate of reaction formula",
+    "question_img": "",
+    "answer": "",
+    "answer_img": "Rate_of_reaction_formula",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 356,
+    "question": "Units used for rate of a chemical reaction",
+    "question_img": "",
+    "answer": "1) g/s. 2) cm\u00B3/s. 3) mol/s.",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 357,
+    "question": "How does the reaction rate change when pressure is increased?",
+    "question_img": "",
+    "answer": "The rate of reaction increases",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 358,
+    "question": "How does the reaction rate change when temperature is decreased?",
+    "question_img": "",
+    "answer": "The rate of reaction decreases",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 359,
+    "question": "How does the reaction rate change when concentration of reactants is increased?",
+    "question_img": "",
+    "answer": "The rate of reaction increases",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 360,
+    "question": "How does the reaction rate change when surface area is increased?",
+    "question_img": "",
+    "answer": "The rate of reaction increases",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 361,
+    "question": "What increases the rate of chemical reactions but is not used up during the reaction?",
+    "question_img": "",
+    "answer": "Catalyst",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 362,
+    "question": "Reversible reactions",
+    "question_img": "",
+    "answer": "Chemical reactions, where the products of the reaction can react to produce the original reactants",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 363,
+    "question": "Is more ammonia produced in this reaction, when pressure is increased? 3H2(g) + N2(g) → 2NH3(g)",
+    "question_img": "",
+    "answer": "Yes",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 364,
+    "question": "Three different ways to measure rate of a reaction",
+    "question_img": "",
+    "answer": "1) Looking at precipitation and colour change. 2) Measuring change in mass. 3) Measuring volume of gas given off.",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 365,
+    "question": "Which way of measuring rate of a reaction is the most accurate?",
+    "question_img": "",
+    "answer": "Measuring the change in mass",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 366,
+    "question": "Reaction between a solid sodium carbonate and aqueous HCl releases CO\u2082 gas. Describe an experiment that would allow you to measure rate of reaction",
+    "question_img": "",
+    "answer": "Add sodium carbonate to flask with HCl and take regular readings of the volume of gas released using gas syringe",
+    "answer_img": "Volume_of_gas_given_off",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 367,
+    "question": "The following image is of an experiment to measure volume of gas given off. What units would be appropriate for expressing the rate of the reaction?",
+    "question_img": "Volume_of_gas_given_off",
+    "answer": "cm\u00B3/s",
+    "answer_img": "Volume_of_gas_given_off",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 368,
+    "question": "Which two factors should be kept constant when carrying out an experiment to investigate the effect of changing the HCl concentration on the rate of reaction between Mg and HCl?",
+    "question_img": "",
+    "answer": "Mass of Mg and volume of HCl",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 369,
+    "question": "Symbol for reversible reaction",
+    "question_img": "",
+    "answer": "⇌",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 370,
+    "question": "How is the concentration affected if equilibrium lies to the right?",
+    "question_img": "",
+    "answer": "Concentration of products is greater than that of the reactants",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 371,
+    "question": "How is the concentration affected if equilibrium lies to the left?",
+    "question_img": "",
+    "answer": "Concentration of reactants is greater than that of the products",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 372,
+    "question": "Which conditions does position of equilibrium depend on?",
+    "question_img": "",
+    "answer": "1) Temperature. 2) Pressure (Only in gases). 3) Concentration of reactants and products.",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 373,
+    "question": "What does it mean when a system is at equilibrium?",
+    "question_img": "",
+    "answer": "A system is at equilibrium when both the forward and reverse reactions are happening at the same rate.",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 374,
+    "question": "Le Chatelier's principle",
+    "question_img": "",
+    "answer": "It is the idea that if you change the conditions of a reversible reaction at equilibrium, this system will try to counteract that change. It can be used to predict the effect of any changes to a reaction system",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 375,
+    "question": "How will this reaction be affected by a decrease in temperature: N\u2082 + 3H\u2082 ⇌ 2NH\u2083?",
+    "question_img": "",
+    "answer": "Equilibrium will move in the exothermic direction to produce more heat. You will get more NH\u2083",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 376,
+    "question": "How will this reaction be affected by an increase in temperature: N\u2082 + 3H\u2082 ⇌ 2NH\u2083?",
+    "question_img": "",
+    "answer": "Equilibrium will move in the endothermic direction to produce more heat. You will get more N\u2082 and H\u2082",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 377,
+    "question": "How will this reaction be affected by a decrease in pressure: N\u2082 + 3H\u2082 ⇌ 2NH\u2083?",
+    "question_img": "",
+    "answer": "Decrease in pressure moves equilibrium in the direction where there are more molecules. It will lead to more N\u2082 and H\u2082 being produced",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 378,
+    "question": "How will this reaction be affected by an increase in pressure: N\u2082 + 3H\u2082 ⇌ 2NH\u2083?",
+    "question_img": "",
+    "answer": "Increase in pressure moves equilibrium in the direction where there are fewer molecules. It will lead to more NH\u2083 being produced",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 379,
+    "question": "How will this reaction be affected by a decrease in concentration of products: N\u2082 + 3H\u2082 ⇌ 2NH\u2083?",
+    "question_img": "",
+    "answer": "If you decrease the concentration of products, the system tries to increase it by reducing the amount of reactants. If NH\u2083 is removed, more N\u2082 and H\u2082 is used up",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 380,
+    "question": "How will this reaction be affected by an increase in concentration of reactants: N\u2082 + 3H\u2082 ⇌ 2NH\u2083?",
+    "question_img": "",
+    "answer": "If you increase the concentration of reactants, the system tries to decrease it by making more products. If more N\u2082 and H\u2082 is added, then more NH\u2083 is produced",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 381,
+    "question": "How will this reaction be affected by an increase in pressure: N\u2082O\u2084 ⇌ 2NO\u2082?",
+    "question_img": "",
+    "answer": "More N\u2082O\u2084 will be produced",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 382,
+    "question": "How will this reaction be affected by an increase in pressure: ClNO\u2082 + NO ⇌ NO\u2082 + ClNO?",
+    "question_img": "",
+    "answer": "Pressure will have no effect on the reaction",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 383,
+    "question": "How will this reaction be affected by an increase in pressure: 2CO + O\u2082 ⇌ 2CO\u2082?",
+    "question_img": "",
+    "answer": "More CO\u2082 will be produced",
+    "answer_img": "",
+    "module": 6,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 384,
+    "question": "Hydrocarbons",
+    "question_img": "",
+    "answer": "Compounds that contain hydrogen and carbon atoms only",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 385,
+    "question": "The general formula for the homologous series of alkanes",
+    "question_img": "",
+    "answer": "C\u2099H\u2082\u2099\u208A\u2082",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 386,
+    "question": "Molecular formula for METHANE",
+    "question_img": "",
+    "answer": "CH\u2084",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 387,
+    "question": "Molecular formula for ETHANE",
+    "question_img": "",
+    "answer": "C\u2082H\u2086",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 388,
+    "question": "Molecular formula for PROPANE",
+    "question_img": "",
+    "answer": "C\u2083H\u2088",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 389,
+    "question": "Molecular formula for BUTANE",
+    "question_img": "",
+    "answer": "C\u2084H\u2081\u2080",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 390,
+    "question": "Molecular formula for PENTANE",
+    "question_img": "",
+    "answer": "C\u2085H\u2081\u2082",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 391,
+    "question": "Molecular formula for HEXANE",
+    "question_img": "",
+    "answer": "C\u2086H\u2081\u2084",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 392,
+    "question": "Crude oil",
+    "question_img": "",
+    "answer": "Crude oil is a complex mixture of hydrocarbons. It is the remains of plants and animals that lived and died millions of years ago. It is a finite resource that is found in the Earth’s crust",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 393,
+    "question": "Name",
+    "question_img": "methane",
+    "answer": "Methane",
+    "answer_img": "methane",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 394,
+    "question": "Name",
+    "question_img": "ethane",
+    "answer": "Ethane",
+    "answer_img": "ethane",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 395,
+    "question": "Name",
+    "question_img": "propane",
+    "answer": "Propane",
+    "answer_img": "propane",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 396,
+    "question": "Name",
+    "question_img": "butane",
+    "answer": "Butane",
+    "answer_img": "butane",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 397,
+    "question": "Name",
+    "question_img": "pentane",
+    "answer": "Pentane",
+    "answer_img": "pentane",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 398,
+    "question": "Fractional distillation of crude oil",
+    "question_img": "",
+    "answer": "1) Heated crude oil enters a tall fractionating column, which is hot at the bottom and gets cooler towards the top. 2) Vapours from the oil rise through the column. 3) vapours condense when they become cool enough. 4) Liquids are led out of the column at different heights.",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 399,
+    "question": "Cracking",
+    "question_img": "",
+    "answer": "Breaking down of hydrocarbons to produce smaller, more useful molecules.",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 400,
+    "question": "Alkenes",
+    "question_img": "",
+    "answer": "Hydrocarbons with a double carbon-carbon bond. Alkenes are unsaturated, they contain at least one C=C double bond.",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 401,
+    "question": "Name",
+    "question_img": "ethene",
+    "answer": "Ethene",
+    "answer_img": "ethene",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 402,
+    "question": "Name",
+    "question_img": "pentene",
+    "answer": "Pentene",
+    "answer_img": "pentene",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 403,
+    "question": "Name",
+    "question_img": "butene",
+    "answer": "Butene",
+    "answer_img": "butene",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 404,
+    "question": "Name",
+    "question_img": "propene",
+    "answer": "Propene",
+    "answer_img": "propene",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 405,
+    "question": "General formula for the homologous series of alkenes",
+    "question_img": "",
+    "answer": "C\u2099H\u2082\u2099",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 406,
+    "question": "Hydrocarbons with the functional group C=C",
+    "question_img": "",
+    "answer": "Alkenes",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 407,
+    "question": "Name",
+    "question_img": "methanol",
+    "answer": "Methanol",
+    "answer_img": "methanol",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 408,
+    "question": "Name",
+    "question_img": "ethanol",
+    "answer": "Ethanol",
+    "answer_img": "ethanol",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 409,
+    "question": "Name",
+    "question_img": "propanol",
+    "answer": "Propanol",
+    "answer_img": "propanol",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 410,
+    "question": "Name",
+    "question_img": "butanol",
+    "answer": "Butanol",
+    "answer_img": "butanol",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 411,
+    "question": "Hydrocarbons with the functional group -OH",
+    "question_img": "",
+    "answer": "Alcohols",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 412,
+    "question": "Hydrocarbons with the functional group -COOH",
+    "question_img": "",
+    "answer": "Carboxylic acids",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 413,
+    "question": "Saturated hydrocarbons",
+    "question_img": "",
+    "answer": "Carbon atoms that are joined together by single C-C bonds",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 414,
+    "question": "Complete combustion",
+    "question_img": "",
+    "answer": "Complete combustion of a hydrocarbon fuel happens when there is a good supply of air. Carbon and hydrogen atoms in the fuel fully react with oxygen in an exothermic reaction producing carbon dioxide and water",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 415,
+    "question": "Incomplete combustion",
+    "question_img": "",
+    "answer": "Incomplete combustion happens when the supply of air or oxygen is insufficient. During incomplete combustion carbon monoxide, carbon and water are produced in an exothermic reaction. Less energy is released when compared to complete combustion",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 416,
+    "question": "Addition polymerisation",
+    "question_img": "",
+    "answer": "Reaction during which many small molecules (monomers) join together to form very large molecules (polymers)",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 417,
+    "question": "Condensation polymerisation",
+    "question_img": "",
+    "answer": "Monomers react to join together, usually losing small molecules such as water",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 418,
+    "question": "Amino acids",
+    "question_img": "",
+    "answer": "Organic compounds that contain amine (-NH2) and carboxyl (-COOH) functional groups",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 419,
+    "question": "Starch is a polymer made from sugar monomers. What are the molecules joined together in long chains to form starch?",
+    "question_img": "",
+    "answer": "Glucose",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 420,
+    "question": "Catalytic cracking",
+    "question_img": "",
+    "answer": "Catalytic cracking uses a temperature of approximately 550°C and a catalyst known as a zeolite which contains aluminium oxide and silicon oxide",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 421,
+    "question": "Steam cracking",
+    "question_img": "",
+    "answer": "Steam cracking uses a higher temperature than 550°C without a catalyst",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 422,
+    "question": "How does the viscosity of a hydrocarbon change with increasing carbon chains?",
+    "question_img": "",
+    "answer": "The longer the carbon chain in hydrocarbons the more viscous they are",
+    "answer_img": "",
+    "module": 7,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 423,
+    "question": "What is a pure substance?",
+    "question_img": "",
+    "answer": "Substance that is a single element or compound, not mixed with any other substance",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 424,
+    "question": "What is a mixture?",
+    "question_img": "",
+    "answer": "A mixture consists of two or more different substances, not chemically joined together",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 425,
+    "question": "What is paper chromatography used for?",
+    "question_img": "",
+    "answer": "Paper chromatography is used to separate mixtures of soluble substances and to provide information on the possible identity of the substances present in the mixture",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 426,
+    "question": "Is the following a pure element, pure compound, mixture of elements or a mixture of compounds: helium?",
+    "question_img": "",
+    "answer": "Pure element",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 427,
+    "question": "Is the following a pure element, pure compound, mixture of elements or a mixture of compounds: water?",
+    "question_img": "",
+    "answer": "Pure compound",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 428,
+    "question": "Is the following a pure element, pure compound, mixture of elements or a mixture of compounds: oxygen?",
+    "question_img": "",
+    "answer": "Pure element",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 429,
+    "question": "Is the following a pure element, pure compound, mixture of elements or a mixture of compounds: mixture of helium and nitrogen?",
+    "question_img": "",
+    "answer": "Mixture of elements",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 430,
+    "question": "Is the following a pure element, pure compound, mixture of elements or a mixture of compounds: water and alcohol?",
+    "question_img": "",
+    "answer": "Mixture of compounds",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 431,
+    "question": "Formulation",
+    "question_img": "",
+    "answer": "A mixture made by mixing the components in carefully measured quantities to ensure that the product has the required properties",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 432,
+    "question": "Name X: The test for X uses a burning splint held at the open end of a test tube of the gas. X burns rapidly with a pop sound",
+    "question_img": "",
+    "answer": "Hydrogen",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 433,
+    "question": "Name X: The test for X uses a glowing splint inserted into a test tube of the gas. The splint relights in X.",
+    "question_img": "",
+    "answer": "Oxygen",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 434,
+    "question": "Name X: The test for X uses an aqueous solution of calcium hydroxide (limewater). When X is shaken with or bubbled through limewater, the limewater turns cloudy",
+    "question_img": "",
+    "answer": "Carbon dioxide",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 435,
+    "question": "Name X: The test for X uses litmus paper. When damp litmus paper is put into X gas, the litmus paper is bleached and turns white",
+    "question_img": "",
+    "answer": "Chlorine",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 436,
+    "question": "Flame tests can be used to identify some metal ions (cations). What colour is obtained when lithium compounds are burned?",
+    "question_img": "",
+    "answer": "Crimson",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 437,
+    "question": "Flame tests can be used to identify some metal ions (cations). What colour is obtained when sodium compounds are burned?",
+    "question_img": "",
+    "answer": "Yellow",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 438,
+    "question": "Flame tests can be used to identify some metal ions (cations). What colour is obtained when potassium compounds are burned?",
+    "question_img": "",
+    "answer": "Lilac",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 439,
+    "question": "Flame tests can be used to identify some metal ions (cations). What colour is obtained when calcium compounds are burned?",
+    "question_img": "",
+    "answer": "Orange-red",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 440,
+    "question": "Flame tests can be used to identify some metal ions (cations). What colour is obtained when copper compounds are burned?",
+    "question_img": "",
+    "answer": "Green",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 441,
+    "question": "Dilute sodium hydroxide solution is used in tests for some metal ions, which form metal hydroxides that are insoluble. This means that the metal hydroxides appear as precipitates. What is the colour of precipitate when aluminum ions are present in the solution?",
+    "question_img": "",
+    "answer": "White",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 442,
+    "question": "Dilute sodium hydroxide solution is used in tests for some metal ions, which form metal hydroxides that are insoluble. This means that the metal hydroxides appear as precipitates. What is the colour of precipitate when calcium ions are present in the solution?",
+    "question_img": "",
+    "answer": "White",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 443,
+    "question": "Dilute sodium hydroxide solution is used in tests for some metal ions, which form metal hydroxides that are insoluble. This means that the metal hydroxides appear as precipitates. What is the colour of precipitate when magnesium ions are present in the solution?",
+    "question_img": "",
+    "answer": "White",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 444,
+    "question": "Dilute sodium hydroxide solution is used in tests for some metal ions, which form metal hydroxides that are insoluble. This means that the metal hydroxides appear as precipitates. What is the colour of precipitate when copper (II) ions are present in the solution?",
+    "question_img": "",
+    "answer": "Blue",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 445,
+    "question": "Dilute sodium hydroxide solution is used in tests for some metal ions, which form metal hydroxides that are insoluble. This means that the metal hydroxides appear as precipitates. What is the colour of precipitate when iron (II) ions are present in the solution?",
+    "question_img": "",
+    "answer": "Green",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 446,
+    "question": "Dilute sodium hydroxide solution is used in tests for some metal ions, which form metal hydroxides that are insoluble. This means that the metal hydroxides appear as precipitates. What is the colour of precipitate when iron (III) ions are present in the solution?",
+    "question_img": "",
+    "answer": "Brown",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 447,
+    "question": "BALANCE THE IONIC EQUATION FOR THE FOLLOWING REACTION: Cu\u00B2\u207A(aq) + OH\u207B(aq) → Cu(OH)\u2082(s)",
+    "question_img": "",
+    "answer": "Cu\u00B2\u207A(aq) + 2OH\u207B(aq) → Cu(OH)\u2082(s)",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 448,
+    "question": "What happens when carbon dioxide gas is passed through limewater?",
+    "question_img": "",
+    "answer": "Limewater turns milky/cloudy when carbon dioxide is bubbled through it",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 449,
+    "question": "A test for sulfate ions",
+    "question_img": "",
+    "answer": "Add a few drops of dilute hydrochloric acid, then a few drops of barium chloride solution. A white precipitate forms, if sulfate ions are present",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 450,
+    "question": "Halide ions react with silver ions to form an insoluble precipitate in the presence of dilute nitric acid. What is the colour of silver chloride precipitate?",
+    "question_img": "",
+    "answer": "White",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 451,
+    "question": "Halide ions react with silver ions to form an insoluble precipitate in the presence of dilute nitric acid. What is the colour of silver bromide precipitate?",
+    "question_img": "",
+    "answer": "Cream",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 452,
+    "question": "Halide ions react with silver ions to form an insoluble precipitate in the presence of dilute nitric acid. What is the colour of silver iodide precipitate?",
+    "question_img": "",
+    "answer": "Yellow",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 453,
+    "question": "Colour of precipitate formed by sulfate ions in a barium chloride solution in the presence of hydrochloric acid",
+    "question_img": "",
+    "answer": "White",
+    "answer_img": "",
+    "module": 8,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 454,
+    "question": "Most abundant gas in the modern atmosphere",
+    "question_img": "",
+    "answer": "Nitrogen",
+    "answer_img": "",
+    "module": 9,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 455,
+    "question": "Second most abundant gas in the modern atmosphere",
+    "question_img": "",
+    "answer": "Oxygen",
+    "answer_img": "",
+    "module": 9,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 456,
+    "question": "The approximate percentage of atmosphere that is made up of oxygen",
+    "question_img": "",
+    "answer": "20%",
+    "answer_img": "",
+    "module": 9,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 457,
+    "question": "The approximate percentage of atmosphere that is made up of nitrogen",
+    "question_img": "",
+    "answer": "80%",
+    "answer_img": "",
+    "module": 9,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 458,
+    "question": "Two reasons for the decrease of carbon dioxide in the atmosphere over time",
+    "question_img": "",
+    "answer": "1) algae and plants decrease the percentage of carbon dioxide in the atmosphere by photosynthesis 2) formation of sedimentary rocks and fossil fuels that contain carbon",
+    "answer_img": "",
+    "module": 9,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 459,
+    "question": "Three most common greenhouse gases in the atmosphere",
+    "question_img": "",
+    "answer": "Water vapour, carbon dioxide, methane",
+    "answer_img": "",
+    "module": 9,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 460,
+    "question": "Four human activities that are increasing the amount of some greenhouse gases in the atmosphere",
+    "question_img": "",
+    "answer": "1) farming cattle releases methane 2) farming rice in paddy fields releases methane 3) burning fossil fuels in vehicles and power stations releases carbon dioxide 4) deforestation releases carbon dioxide and reduces the absorption of carbon dioxide through photosynthesis",
+    "answer_img": "",
+    "module": 9,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 461,
+    "question": "Four effects of global warming",
+    "question_img": "",
+    "answer": "1) glaciers and polar ice melting 2) sea levels rising 3) patterns of rainfall changing, producing floods or droughts 4) habitats changing",
+    "answer_img": "",
+    "module": 9,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 462,
+    "question": "Carbon footprint",
+    "question_img": "",
+    "answer": "The total amount of carbon dioxide and other greenhouse gases emitted over the full life cycle of a product, a service or an event",
+    "answer_img": "",
+    "module": 9,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 463,
+    "question": "Two reasons why climate change is leading to rising sea levels",
+    "question_img": "",
+    "answer": "1) water from melting glaciers and polar ice enters the oceans 2) as the Earth’s temperature increases, seawater warms up and expands",
+    "answer_img": "",
+    "module": 9,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 464,
+    "question": "Main source of carbon monoxide gas",
+    "question_img": "",
+    "answer": "Incomplete combustion of any fuel containing carbon atoms",
+    "answer_img": "",
+    "module": 9,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 465,
+    "question": "Main source of particulate carbon",
+    "question_img": "",
+    "answer": "Incomplete combustion of any fuel containing carbon atoms",
+    "answer_img": "",
+    "module": 9,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 466,
+    "question": "Main source of unburned hydrocarbons",
+    "question_img": "",
+    "answer": "Hydrocarbon fuel molecules which have not been oxidised at all",
+    "answer_img": "",
+    "module": 9,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 467,
+    "question": "Main source of sulphur dioxide",
+    "question_img": "",
+    "answer": "Combustion of a fossil fuel which contains sulfur impurities",
+    "answer_img": "",
+    "module": 9,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 468,
+    "question": "Main source of nitrogen oxides",
+    "question_img": "",
+    "answer": "Oxidation of atmospheric nitrogen inside the engine of a vehicle",
+    "answer_img": "",
+    "module": 9,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 469,
+    "question": "Photosynthesis",
+    "question_img": "",
+    "answer": "A chemical process used by algae and plants to make glucose and oxygen from carbon dioxide and water, using light energy",
+    "answer_img": "",
+    "module": 9,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 470,
+    "question": "Which of these are greenhouse gases: 1) oxygen 2) nitrogen; 3) methane; 4) carbon dioxide",
+    "question_img": "",
+    "answer": "3) Methane, 4) carbon dioxide",
+    "answer_img": "",
+    "module": 9,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 471,
+    "question": "The greenhouse effect",
+    "question_img": "",
+    "answer": "1) Electromagnetic radiation at most wavelengths passes through the Earth's atmosphere. 2) The Earth absorbs most of the radiation and warms up. 3) The Earth radiates energy as infrared radiation. 4) Some of the infrared radiation goes into space. 5) Some of the infrared radiation is absorbed by greenhouse gases in the atmosphere. 6) The lower atmosphere warms up",
+    "answer_img": "",
+    "module": 9,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 472,
+    "question": "Renewable resources",
+    "question_img": "",
+    "answer": "Resources that will not run out in the foreseeable future",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 473,
+    "question": "Process used to produce fertilisers from nitrogen in the air",
+    "question_img": "",
+    "answer": "Haber process",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 474,
+    "question": "Haber process",
+    "question_img": "",
+    "answer": "Industrial chemical process that produces ammonia by reacting nitrogen and hydrogen",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 475,
+    "question": "Potable water",
+    "question_img": "",
+    "answer": "Water that is safe for humans to drink",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 476,
+    "question": "Desalination",
+    "question_img": "",
+    "answer": "Removal of salt from water",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 477,
+    "question": "Two processes that can desalinate water",
+    "question_img": "",
+    "answer": "Distillation and reverse osmosis",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 478,
+    "question": "Reverse osmosis",
+    "question_img": "",
+    "answer": "Water is put under high pressure and passed through a membrane which has tiny pores (holes) in it. The pores allow water molecules through, but prevent most ions and molecules from passing through",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 479,
+    "question": "Water distillation",
+    "question_img": "",
+    "answer": "Water is heated until it boils. The salt remains in the liquid but steam is pure water. As steam cools, it it condenses. The water that condenses is potable",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 480,
+    "question": "Common methods for corrosion prevention",
+    "question_img": "",
+    "answer": "Greasing, painting, electroplating, coating with plastic",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 481,
+    "question": "Life cycle analysis",
+    "question_img": "",
+    "answer": "Analysis of the impact of a manufactured product on the environment",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 482,
+    "question": "Main stages in a life cycle of manufactured products",
+    "question_img": "",
+    "answer": "1) Extraction and processing raw materials. 2) Manufacturing the product and its packaging. 3) Using the product during its lifetime. 4) Disposing of the product at the end of its useful life.",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 483,
+    "question": "Electroplating",
+    "question_img": "",
+    "answer": "Process that involves using electrolysis to put a thin layer of a metal on an object",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 484,
+    "question": "Sacrificial protection",
+    "question_img": "",
+    "answer": "Iron can be protected from rusting if it is in contact with a more reactive metal, such as zinc. The more reactive metal oxidises more readily than iron, so it ‘sacrifices’ itself while the iron does not rust. Once the sacrificial metal has corroded away, it can simply be replaced",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 485,
+    "question": "The proportion of gold in an alloy is measured in carats, with 24 carat gold being pure gold. What is the percentage of gold in a 12 carat gold necklace?",
+    "question_img": "",
+    "answer": "50%",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 486,
+    "question": "The proportion of gold in the alloy is measured in carats, with 24 carat gold being pure gold. What is the percentage of gold in a 6 carat gold necklace?",
+    "question_img": "",
+    "answer": "25%",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 487,
+    "question": "Borosilicate glass",
+    "question_img": "",
+    "answer": "Glass that is made by heating sand with boron trioxide",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 488,
+    "question": "What are the advantages of recycling?",
+    "question_img": "",
+    "answer": "1) Fewer quarries and mines are needed to extract finite reserves of metal ores. 2) Less crude oil needs to be extracted from the crust as a raw material for making plastics. 3) Less energy is needed for recycling compared with making a new product from natural resources, so the emission of greenhouse gases is reduced. 4) The amount of waste that is disposed of in landfill is reduced",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 489,
+    "question": "What are the disadvantages of recycling?",
+    "question_img": "",
+    "answer": "1) The collection and transport of used items needs organisation, workers, vehicles and fuel. 2) It can be difficult to sort different metals from one another. 3) The sorted metals may need to be transported to where it can be turned into ingots.",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 490,
+    "question": "Phytoextraction",
+    "question_img": "",
+    "answer": "1) Plants are grown on a low-grade ore. 2) The plants absorb metal ions through their roots and concentrate these ions in their cells. 3) The plants are harvested and burnt. 4) The ash left behind contains metal compounds.",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 491,
+    "question": "Bioleaching",
+    "question_img": "",
+    "answer": "Certain bacteria can break down low-grade ores to produce an acidic solution containing copper ions. The produced solution is called a leachate",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 492,
+    "question": "Plastics that melt when they are heated",
+    "question_img": "",
+    "answer": "Thermosoftening",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 493,
+    "question": "Plastics that do not melt when heated and tend to char and burn when heated",
+    "question_img": "",
+    "answer": "Thermosetting",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 494,
+    "question": "Material that consists of two or more materials with different properties",
+    "question_img": "",
+    "answer": "Composite material",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 495,
+    "question": "Process for production of ammonia",
+    "question_img": "",
+    "answer": "Haber process",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 496,
+    "question": "Gas that is produced in the Haber process",
+    "question_img": "",
+    "answer": "Ammonia",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 497,
+    "question": "How is iron used in the Haber process?",
+    "question_img": "",
+    "answer": "Iron is a catalyst for the reaction. It increases the rate of the reaction without being used up in the reaction itself",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 498,
+    "question": "What do the letters NPK in fertilizer stand for?",
+    "question_img": "",
+    "answer": "N-Nitrogen, P-phosphorus, K-potassium",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 499,
+    "question": "What are the steps in the Haber process?",
+    "question_img": "",
+    "answer": "1) Nitrogen (extracted from the air) and hydrogen (obtained from natural gas) are pumped through pipes. 2) The pressure of the mixture of gases is increased to 200 atmospheres. 3) the pressurised gases are heated to 450°C and passed through a tank containing an iron catalyst. 4) Reaction mixture is cooled so that ammonia liquefies and can be removed. 5) Unreacted nitrogen and hydrogen are recycled",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  },
+  {
+    "id": 500,
+    "question": "Fertilisers",
+    "question_img": "",
+    "answer": "Fertilisers are nutrients added to the soil to increase soil fertility",
+    "answer_img": "",
+    "module": 10,
+    "is_answered": "FALSE"
+  }
+]

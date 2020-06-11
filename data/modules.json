@@ -1,0 +1,65 @@
+[
+ {
+   "module_id": 1,
+   "module_name": "Atomic structure and the periodic table",
+   "module_pic_1": "Atomic_1",
+   "exam": "AQA"
+ },
+ {
+   "module_id": 2,
+   "module_name": "Bonding, structure, and the properties of matter",
+   "module_pic_1": "Bonding_1",
+   "exam": "AQA"
+ },
+ {
+   "module_id": 3,
+   "module_name": "Quantitative chemistry",
+   "module_pic_1": "Quantitative_1",
+   "exam": "AQA"
+ },
+ {
+   "module_id": 4,
+   "module_name": "Chemical changes",
+   "module_pic_1": "Chemical_1",
+   "exam": "AQA"
+ },
+ {
+   "module_id": 5,
+   "module_name": "Energy changes",
+   "module_pic_1": "Energy_1",
+   "exam": "AQA"
+ },
+ 
+ {
+   "module_id": 6,
+   "module_name": "The rate and extent of chemical change",
+   "module_pic_1": "Rate_1",
+   "exam": "AQA"
+ },
+ {
+   "module_id": 7,
+   "module_name": "Organic chemistry",
+   "module_pic_1": "Organic_1",
+   "exam": "AQA"
+ }, 
+ {
+   "module_id": 8,
+   "module_name": "Chemical analysis ",
+   "module_pic_1": "Analysis_1",
+   "exam": "AQA"
+ },
+ {
+   "module_id": 9,
+   "module_name": "Chemistry of the atmosphere",
+   "module_pic_1": "Chemistry_1",
+   "exam": "AQA"
+ },
+
+ {
+   "module_id": 10,
+   "module_name": "Using resources",
+   "module_pic_1": "Resources_1",
+   "exam": "AQA"
+ }
+]
+ 

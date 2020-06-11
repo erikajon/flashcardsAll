@@ -1,0 +1,17 @@
+[
+  {
+    "exam_id": "AQA",
+    "name": "AQA",
+    "exam_board": "AQA"
+  },
+  {
+    "exam_id": "Edexcel",
+    "name": "Edexcel",
+    "exam_board": "Edexcel"
+  },
+  {
+    "exam_id": "OCR",
+    "name": "OCR",
+    "exam_board": "OCR"
+  }
+]
