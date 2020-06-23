@@ -11,9 +11,12 @@ import { WelcomeScreen } from './screens/WelcomeScreen';
 import { OnboardingAnalyticsScreen } from './screens/OnboardingAnalyticsScreen';
 import { FilterButton as FlashcardFilterButton } from './screens/FlashcardsScreen/FilterButton';
 
+import { setupMixpanel } from './analytics';
+
 import { seedRealmDB } from './storage/realm/seed';
 
 import { HAS_USER_ONBOARDED } from './constants';
+import FlipCard from 'react-native-card-flip';
 
 export const mainRoot = {
   root: {
@@ -138,7 +141,12 @@ const onboardingRoot = {
 };
 
 Navigation.events().registerAppLaunchedListener(async () => {
+  // will initialise Mixpanel with opt out by default
+  setupMixpanel();
+
+  // will setup all of the data
   await seedRealmDB();
+
   SplashScreen.hide();
 
   const hasUserOnboarded = await AsyncStorage.getItem(HAS_USER_ONBOARDED);

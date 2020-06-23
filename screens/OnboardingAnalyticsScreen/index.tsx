@@ -1,6 +1,5 @@
 import React, { useCallback } from 'react';
 import { Navigation } from 'react-native-navigation';
-import AsyncStorage from '@react-native-community/async-storage';
 import {
   Text,
   View,
@@ -8,28 +7,27 @@ import {
   StyleSheet,
   Dimensions,
 } from 'react-native';
+import Mixpanel from 'react-native-mixpanel';
+import uuid from 'react-native-unique-id';
 
 import {mainRoot} from '../../index';
 import {Button} from '../../components/Button';
-import{HAS_ACCEPTED_ANALYTICS} from '../../constants';
 
 const illustration = require('../../assets/images/analytics.png');
 
 export const OnboardingAnalyticsScreen = () => {
   const acceptAndgoToMainRoot = useCallback(async () => {
     try {
-      await AsyncStorage.setItem(HAS_ACCEPTED_ANALYTICS, 'true');
+      const mixpanelId = await uuid();
+      Mixpanel.optInTracking();
+      Mixpanel.createAlias(mixpanelId);
+      Navigation.setRoot(mainRoot);
     } catch (err) {
-      console.log('err', err);
+      console.log(err);
     }
-    Navigation.setRoot(mainRoot);
   }, []);
   const denyAndgoToMainRoot = useCallback(async () => {
-    try {
-      await AsyncStorage.setItem(HAS_ACCEPTED_ANALYTICS, 'false');
-    } catch (err) {
-      console.log('err', err);
-    }
+    Mixpanel.optInTracking();
     Navigation.setRoot(mainRoot);
   }, []);
 
@@ -44,8 +42,7 @@ export const OnboardingAnalyticsScreen = () => {
         <View style={styles.ctaMainContainer}>
           <Button type="brand" label="Count me in" onClick={acceptAndgoToMainRoot} width={Dimensions.get('window').width * 0.8} />
         </View>
-        
-        <Button type="default" label="Maybe next time" onClick={acceptAndgoToMainRoot} width={Dimensions.get('window').width * 0.8} />
+        <Button type="default" label="Maybe next time" onClick={denyAndgoToMainRoot} width={Dimensions.get('window').width * 0.8} />
       </View>
     </View>
   );

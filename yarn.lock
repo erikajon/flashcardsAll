@@ -855,6 +855,11 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
+"@react-native-community/async-storage@1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@react-native-community/async-storage/-/async-storage-1.5.0.tgz#647ffcd832272068b0be57332e08d73036ed391f"
+  integrity sha512-2yE4RzQ5IL+UTPhuMY0ykNRKHf1m90jOnmp8fcDPUun5U97cXlorjI4p66ovDgF0FuOv8ZpiUKvunGy3qqBxwg==
+
 "@react-native-community/async-storage@^1.11.0":
   version "1.11.0"
   resolved "https://registry.yarnpkg.com/@react-native-community/async-storage/-/async-storage-1.11.0.tgz#bf81b8813080846f150c67f531987c429b442166"
@@ -1083,6 +1088,11 @@
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@types/stack-utils/-/stack-utils-1.0.1.tgz#0a851d3bd96498fa25c33ab7278ed3bd65f06c3e"
   integrity sha512-l42BggppR6zLmpfU6fq9HEa2oGPEI8yrSPL3GITjfRInppYFahObbIQOQK3UGxEnyQpltZLaPe75046NOZQikw==
+
+"@types/uuid@^8.0.0":
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/@types/uuid/-/uuid-8.0.0.tgz#165aae4819ad2174a17476dbe66feebd549556c0"
+  integrity sha512-xSQfNcvOiE5f9dyd4Kzxbof1aTrLobL278pGLKOZI6esGfZ7ts9Ka16CzIN6Y8hFHE1C7jIBZokULhK1bOgjRw==
 
 "@types/yargs-parser@*":
   version "15.0.0"
@@ -5495,6 +5505,11 @@ pn@^1.1.0:
   resolved "https://registry.yarnpkg.com/pn/-/pn-1.1.0.tgz#e2f4cef0e219f463c179ab37463e4e1ecdccbafb"
   integrity sha512-2qHaIQr2VLRFoxe2nASzsV6ef4yOOH+Fi9FBOVH6cqeSgUnoyySPZkxzLuzd+RYOQTRpROA0ztTMqxROKSb/nA==
 
+polygoat@1.1.4:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/polygoat/-/polygoat-1.1.4.tgz#329f9a0d1b2d4a45149e2539523c6f7dfd850a5f"
+  integrity sha1-Mp+aDRstSkUUniU5Ujxvff2FCl8=
+
 posix-character-classes@^0.1.0:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/posix-character-classes/-/posix-character-classes-0.1.1.tgz#01eac0fe3b5af71a2a6c02feabb8c1fef7e00eab"
@@ -5686,6 +5701,11 @@ react-native-fs@^2.16.6:
     base-64 "^0.1.0"
     utf8 "^3.0.0"
 
+react-native-mixpanel@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-mixpanel/-/react-native-mixpanel-1.2.0.tgz#17c24151cf2039482cd20decc54ccf0e49ccebc5"
+  integrity sha512-Xy+KEIEVFidWuASBdexZquXTJBb3JCyFM7xSgnIOZt5PRzpARGFrYMDErTUZ1wSPK+KFaf1oylInOoC2DddI/Q==
+
 react-native-navigation@^6.7.2:
   version "6.7.2"
   resolved "https://registry.yarnpkg.com/react-native-navigation/-/react-native-navigation-6.7.2.tgz#f14f57448b20e31bfc82daea0220e4cd73a0f546"
@@ -5709,6 +5729,14 @@ react-native-svg@^12.1.0:
   dependencies:
     css-select "^2.1.0"
     css-tree "^1.0.0-alpha.39"
+
+react-native-unique-id@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-unique-id/-/react-native-unique-id-2.0.0.tgz#7cb1dd7e7fc10cfb00c66b73bb916104ca12538f"
+  integrity sha512-sfPhqppzo91O1pKPSMcNFEM7altQUabpeWiiQ9GzIWm0YJ+AwuLTgaOzrBiwRyq0j51oORHGZw7Vo2iNtSvVZA==
+  dependencies:
+    "@react-native-community/async-storage" "1.5.0"
+    polygoat "1.1.4"
 
 react-native@0.61.5:
   version "0.61.5"
@@ -6995,6 +7023,11 @@ uuid@^3.3.2:
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.4.0.tgz#b23e4358afa8a202fe7a100af1f5f883f02007ee"
   integrity sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A==
+
+uuid@^8.1.0:
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-8.1.0.tgz#6f1536eb43249f473abc6bd58ff983da1ca30d8d"
+  integrity sha512-CI18flHDznR0lq54xBycOVmphdCYnQLKn8abKn7PXUiKUGdEd+/l9LWNJmugXel4hXq7S+RMNl34ecyC9TntWg==
 
 v8-compile-cache@^2.0.3:
   version "2.1.1"

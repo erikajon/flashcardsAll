@@ -6,7 +6,10 @@ import {
   StyleSheet,
   View,
   Dimensions,
+  AsyncStorage,
 } from 'react-native';
+import uuid from 'react-native-unique-id';
+import Mixpanel from 'react-native-mixpanel';
 
 import {ProgressCircle} from '../../components/ProgressCircle';
 import {flashcardActions} from '../../storage/realm';
@@ -44,6 +47,16 @@ export class ProgressScreen extends React.Component<Props, State> {
     this.all.addListener(() => {
       this.updateProgress();
     });
+  }
+
+  async componentDidMount() {
+    // this is assuming that this is always the root page for main navigation
+    try {
+      const mixpanelId = await uuid();
+      Mixpanel.identify(mixpanelId);
+    } catch (err) {
+      console.log(err);
+    }
   }
 
   componentWillUnmount() {
