@@ -1,29 +1,43 @@
 import React from 'react';
 import {TouchableOpacity, Text, StyleSheet, View} from 'react-native';
 
-type ButtonType = 'success' | 'danger';
+type ButtonType = 'success' | 'danger' | 'brand';
 
 interface Props {
   onClick: () => void;
   type: ButtonType;
   label: string;
+  width?: number;
 }
 
 const SUCCESS_COLOUR = '#46D9C8';
 const DANGER_COLOUR = '#EF2E88';
+const BRAND_COLOUR = '#636BF6';
 
-const getButtonStyle = (buttonType: ButtonType) => {
+const getButtonStyle = (buttonType: ButtonType, width?: number) => {
+  let style;
   switch (buttonType) {
+    case 'brand':
+      style = {...styles.container, ...styles.brand};
+      break;
     case 'danger':
-      return {...styles.container, ...styles.danger};
+      style = {...styles.container, ...styles.danger};
+      break;
     default:
-      return {...styles.container, ...styles.success};
+      style = {...styles.container, ...styles.success};
+      break;
   }
+
+  if (width) {
+    style = {...style, width};
+  }
+
+  return style;
 };
 
 export const Button = (props: Props) => (
   <TouchableOpacity onPress={props.onClick}>
-    <View style={getButtonStyle(props.type)}>
+    <View style={getButtonStyle(props.type, props.width)}>
       <Text style={styles.label}>{props.label}</Text>
     </View>
   </TouchableOpacity>
@@ -53,6 +67,9 @@ const styles = StyleSheet.create({
   },
   danger: {
     backgroundColor: DANGER_COLOUR,
+  },
+  brand: {
+    backgroundColor: BRAND_COLOUR,
   },
   label: {
     color: '#FFFFFF',
