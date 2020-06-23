@@ -13,10 +13,15 @@ import {Button} from '../../components/Button';
 
 const onboardingIllustration = require('../../assets/images/onboarding.png');
 
-export const WelcomeScreen = () => {
+export const WelcomeScreen = (props) => {
+  console.log('props', props);
   const goToMainRoot = useCallback(() => {
-    Navigation.setRoot(mainRoot);
-  });
+    Navigation.push(props.componentId, {
+      component: {
+        name: 'OnboardingAnalyticsScreen',
+      }
+    });
+  }, []);
 
   return (
     <View style={styles.container}>
@@ -24,7 +29,7 @@ export const WelcomeScreen = () => {
       <Text style={styles.title}>AQA GCSE Chemistry</Text>
       <Text style={styles.subtitle}>by UDEAVOUR</Text>
       <View style={styles.buttonContainer}>
-        <Button type="brand" label="Get started" onClick={goToMainRoot} width={Dimensions.get('window').width * 0.8} />
+        <Button type="brand" label="Let's get started" onClick={goToMainRoot} width={Dimensions.get('window').width * 0.8} />
       </View>
     </View>
   )
