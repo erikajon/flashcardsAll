@@ -9,25 +9,40 @@ import {
 } from 'react-native';
 import Mixpanel from 'react-native-mixpanel';
 import uuid from 'react-native-unique-id';
+import AsyncStorage from '@react-native-community/async-storage';
 
 import {mainRoot} from '../../index';
 import {Button} from '../../components/Button';
+import { HAS_USER_ONBOARDED } from '../../constants';
 
 const illustration = require('../../assets/images/analytics.png');
 
 export const OnboardingAnalyticsScreen = () => {
   const acceptAndgoToMainRoot = useCallback(async () => {
     try {
+      // this will ensure that returning
+      // user does not see onboarding again
+      await AsyncStorage.setItem(HAS_USER_ONBOARDED, 'true');
+
       const mixpanelId = await uuid();
       Mixpanel.optInTracking();
       Mixpanel.createAlias(mixpanelId);
+      Mixpanel.registerSuperProperties({ app: 'GCSE Chemistry', examBoard: 'AQA' });
+      
       Navigation.setRoot(mainRoot);
     } catch (err) {
       console.log(err);
     }
   }, []);
   const denyAndgoToMainRoot = useCallback(async () => {
-    Mixpanel.optInTracking();
+    Mixpanel.optOutTracking();
+    // this will ensure that returning
+    // user does not see onboarding again
+    try {
+      await AsyncStorage.setItem(HAS_USER_ONBOARDED, 'true');
+    } catch (err) {
+      console.log(err);
+    }
     Navigation.setRoot(mainRoot);
   }, []);
 

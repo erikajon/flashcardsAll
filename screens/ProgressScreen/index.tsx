@@ -50,13 +50,13 @@ export class ProgressScreen extends React.Component<Props, State> {
   }
 
   async componentDidMount() {
-    // this is assuming that this is always the root page for main navigation
     try {
       const mixpanelId = await uuid();
       Mixpanel.identify(mixpanelId);
     } catch (err) {
       console.log(err);
     }
+    
   }
 
   componentWillUnmount() {

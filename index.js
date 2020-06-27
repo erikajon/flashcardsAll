@@ -16,7 +16,6 @@ import { setupMixpanel } from './analytics';
 import { seedRealmDB } from './storage/realm/seed';
 
 import { HAS_USER_ONBOARDED } from './constants';
-import FlipCard from 'react-native-card-flip';
 
 export const mainRoot = {
   root: {
