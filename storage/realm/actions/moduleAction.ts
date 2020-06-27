@@ -6,6 +6,7 @@ export type ModuleActionType = {
   saveModule(payload: ModuleModeType): Promise<ModuleModel>;
   getAllModulesByExamId(examId: string): Realm.Results<ModuleModel>;
   resetProgress(): void;
+  updateLastRevisedDate(moduleId: number): Promise<void>;
 };
 
 export const moduleActions = (realmInstance: Realm) => ({
@@ -38,6 +39,23 @@ export const moduleActions = (realmInstance: Realm) => ({
       console.log('err', err);
       return err;
     }
+  },
+
+  updateLastRevisedDate: (moduleId: string): Promise<void> => {
+    return new Promise((resolve, reject) => {
+      try {
+        realmInstance.write(() => {
+          let [module] = realmInstance.objects<ModuleModel>(
+            ModuleModel.getModelName(),
+          ).filtered('id == $0', moduleId);
+          module.lastRevised = new Date();
+          resolve()
+        });
+      } catch (err) {
+        console.log('err', err);
+        return reject(err);
+      }
+    });
   },
 
   resetProgress: () => {

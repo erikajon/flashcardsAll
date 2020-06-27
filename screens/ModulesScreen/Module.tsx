@@ -1,11 +1,13 @@
 import React from 'react';
 import {View, Text, StyleSheet, TouchableOpacity} from 'react-native';
+import { Navigation } from 'react-native-navigation';
+import sugar from 'sugar';
+
 import {ModuleModel} from 'storage/realm/models/moduleModel';
 import {flashcardActions} from '../../storage/realm';
 import {FlashcardModel} from '../../storage/realm/models/flashcardModel';
 import {ProgressBar} from './ProgressBar';
 import { trackEvent, OPENED_MODULE } from '../../analytics';
-const {Navigation} = require('react-native-navigation');
 
 interface Props {
   examModule: ModuleModel;
@@ -64,7 +66,7 @@ export class Module extends React.Component<Props, State> {
     const {examModule} = this.props;
     return (
       <TouchableOpacity
-        onPress={() => {
+        onPress={async () => {
           // navigate to module id
           trackEvent(OPENED_MODULE, { moduleId: examModule.id });
           Navigation.push('MODULES_TAB', {
@@ -85,7 +87,9 @@ export class Module extends React.Component<Props, State> {
           <View style={styles.progressContainer}>
             <ProgressBar widthPercentage={this.state.answeredPercentage} />
           </View>
-          <Text style={styles.lastRevised}>Last revised 5 days ago</Text>
+          <Text style={styles.lastRevised}>
+            {examModule.lastRevised ? `Last revised: ${sugar.Date(examModule.lastRevised).relative()}` : 'Not started'}
+          </Text>
           <Text style={styles.moduleName}>{examModule.name}</Text>
           <View style={styles.stats}>
             <Text style={styles.answered}>
