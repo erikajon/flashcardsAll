@@ -12,6 +12,7 @@ import {
 } from 'react-native';
 import {moduleActions} from '../../storage/realm';
 import {flashcardActions} from '../../storage/realm';
+import { trackEvent, PROGRESS_RESET } from '../../analytics';
 
 export const SettingsScreen = () => {
   return (
@@ -33,6 +34,7 @@ export const SettingsScreen = () => {
                   {
                     text: 'Reset',
                     onPress: () => {
+                      trackEvent(PROGRESS_RESET);
                       moduleActions.resetProgress();
                       flashcardActions.resetProgress();
                     },

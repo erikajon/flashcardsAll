@@ -15,6 +15,7 @@ import {
 import {CardFlag} from './Flag';
 import {Button} from '../../components/Button';
 import {TextWithSubOrSuperscript} from './TextWithSubOrSuperscript';
+import { trackEvent, Q_ANSWERED_CORRECTLY, Q_ANSWERED_INCORRECTLY } from '../../analytics';
 
 interface Props {
   card: FlashcardModel;
@@ -68,12 +69,18 @@ export const CardBack = ({
         <View style={styles.buttonsView}>
           <Button
             type="danger"
-            onClick={() => updateCardAnswerStatus(card.id, 'incorrect')}
+            onClick={() => {
+              updateCardAnswerStatus(card.id, 'incorrect');
+              trackEvent(Q_ANSWERED_INCORRECTLY, { cardId: card.id, module: card.moduleId });
+            }}
             label="Incorrect"
           />
           <Button
             type="success"
-            onClick={() => updateCardAnswerStatus(card.id, 'correct')}
+            onClick={() => {
+              trackEvent(Q_ANSWERED_CORRECTLY, { cardId: card.id, module: card.moduleId });
+              updateCardAnswerStatus(card.id, 'correct');
+            }}
             label="Correct"
           />
         </View>

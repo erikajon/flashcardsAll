@@ -4,6 +4,7 @@ import {ModuleModel} from 'storage/realm/models/moduleModel';
 import {flashcardActions} from '../../storage/realm';
 import {FlashcardModel} from '../../storage/realm/models/flashcardModel';
 import {ProgressBar} from './ProgressBar';
+import { trackEvent, OPENED_MODULE } from '../../analytics';
 const {Navigation} = require('react-native-navigation');
 
 interface Props {
@@ -63,7 +64,9 @@ export class Module extends React.Component<Props, State> {
     const {examModule} = this.props;
     return (
       <TouchableOpacity
-        onPress={() =>
+        onPress={() => {
+          // navigate to module id
+          trackEvent(OPENED_MODULE, { moduleId: examModule.id });
           Navigation.push('MODULES_TAB', {
             component: {
               name: 'FlashcardsScreen',
@@ -76,8 +79,8 @@ export class Module extends React.Component<Props, State> {
                 moduleId: examModule.id,
               },
             },
-          })
-        }>
+          });
+        }}>
         <View style={styles.module}>
           <View style={styles.progressContainer}>
             <ProgressBar widthPercentage={this.state.answeredPercentage} />

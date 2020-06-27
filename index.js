@@ -8,7 +8,10 @@ import { SettingsScreen } from './screens/SettingsScreen';
 import { FlashcardsScreen } from './screens/FlashcardsScreen';
 import { FlashcardFilterScreen } from './screens/FlashcardFilterScreen';
 import { WelcomeScreen } from './screens/WelcomeScreen';
+import { OnboardingAnalyticsScreen } from './screens/OnboardingAnalyticsScreen';
 import { FilterButton as FlashcardFilterButton } from './screens/FlashcardsScreen/FilterButton';
+
+import { setupMixpanel } from './analytics';
 
 import { seedRealmDB } from './storage/realm/seed';
 
@@ -106,12 +109,22 @@ Navigation.registerComponent(
   'WelcomeScreen',
   () => WelcomeScreen,
 );
+Navigation.registerComponent(
+  'OnboardingAnalyticsScreen',
+  () => OnboardingAnalyticsScreen,
+);
 
 const onboardingRoot = {
   root: {
     stack: {
       id: "ONBOARDING_STACK",
       children: [
+        {
+          component: {
+            id: "ONBOARDING_ANALYTICS_SCREEN",
+            name: 'OnboardingAnalyticsScreen',
+          },
+        },
         {
           component: {
             id: "WELCOME_SCREEN",
@@ -127,7 +140,12 @@ const onboardingRoot = {
 };
 
 Navigation.events().registerAppLaunchedListener(async () => {
+  // will initialise Mixpanel with opt out by default
+  setupMixpanel();
+
+  // will setup all of the data
   await seedRealmDB();
+
   SplashScreen.hide();
 
   const hasUserOnboarded = await AsyncStorage.getItem(HAS_USER_ONBOARDED);

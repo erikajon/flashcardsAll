@@ -7,6 +7,7 @@ import {
   INCORRECT_FILTER_NAME,
   UNANSWERED_FILTER_NAME,
 } from '../../constants';
+import { trackEvent, CARDS_FILTERED_SET } from '../../analytics';
 
 interface Props {
   componentId: string;
@@ -75,16 +76,19 @@ export class FlashcardFilterScreen extends PureComponent<Props, State> {
   }
 
   toggleCorrectFilter = async (value: boolean) => {
+    trackEvent(CARDS_FILTERED_SET, { filterName: CORRECT_FILTER_NAME, isEnabled: value.toString() });
     await AsyncStorage.setItem(CORRECT_FILTER_NAME, value.toString());
     this.setState({isCorrectSelected: value});
   };
 
   toggleIncorrectFilter = async (value: boolean) => {
+    trackEvent(CARDS_FILTERED_SET, { filterName: INCORRECT_FILTER_NAME, isEnabled: value.toString() });
     await AsyncStorage.setItem(INCORRECT_FILTER_NAME, value.toString());
     this.setState({isIncorrectSelected: value});
   };
 
   toggleUnansweredFilter = async (value: boolean) => {
+    trackEvent(CARDS_FILTERED_SET, { filterName: UNANSWERED_FILTER_NAME, isEnabled: value.toString() });
     await AsyncStorage.setItem(UNANSWERED_FILTER_NAME, value.toString());
     this.setState({isUnansweredSelected: value});
   };
