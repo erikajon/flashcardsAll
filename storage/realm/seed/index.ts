@@ -1,7 +1,7 @@
 import AsyncStorage from '@react-native-community/async-storage';
 
 import {seed as seed1Function} from './202005071010_add_initial_seed';
-import {getRealmInstance} from '..';
+// import {getRealmInstance} from '..';
 
 // seed version that the device should be on
 const SEED_VERSION = 1;
@@ -14,11 +14,11 @@ const seeds: {version: number; seedFunction: () => any}[] = [
 export const seedRealmDB = async () => {
   // @TODO :: remove this when no longer needed
   // temp delete everything
-  await AsyncStorage.removeItem('flashcardsSeedVersion');
-  const realm = getRealmInstance();
-  realm.write(() => {
-    realm.deleteAll();
-  });
+  // await AsyncStorage.removeItem('flashcardsSeedVersion');
+  // const realm = getRealmInstance();
+  // realm.write(() => {
+  //   realm.deleteAll();
+  // });
 
   let storedSeedVersion = await AsyncStorage.getItem('flashcardsSeedVersion');
   if (SEED_VERSION.toString() !== storedSeedVersion) {

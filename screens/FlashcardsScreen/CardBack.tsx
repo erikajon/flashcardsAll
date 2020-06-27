@@ -16,6 +16,7 @@ import {CardFlag} from './Flag';
 import {Button} from '../../components/Button';
 import {TextWithSubOrSuperscript} from './TextWithSubOrSuperscript';
 import { trackEvent, Q_ANSWERED_CORRECTLY, Q_ANSWERED_INCORRECTLY } from '../../analytics';
+import { moduleActions } from '../../storage/realm';
 
 interface Props {
   card: FlashcardModel;
@@ -69,17 +70,19 @@ export const CardBack = ({
         <View style={styles.buttonsView}>
           <Button
             type="danger"
-            onClick={() => {
+            onClick={async () => {
               updateCardAnswerStatus(card.id, 'incorrect');
               trackEvent(Q_ANSWERED_INCORRECTLY, { cardId: card.id, module: card.moduleId });
+              await moduleActions.updateLastRevisedDate(card.moduleId);
             }}
             label="Incorrect"
           />
           <Button
             type="success"
-            onClick={() => {
+            onClick={async () => {
               trackEvent(Q_ANSWERED_CORRECTLY, { cardId: card.id, module: card.moduleId });
               updateCardAnswerStatus(card.id, 'correct');
+              await moduleActions.updateLastRevisedDate(card.moduleId);
             }}
             label="Correct"
           />
