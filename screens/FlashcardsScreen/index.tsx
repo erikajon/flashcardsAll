@@ -4,13 +4,12 @@ import {
   Dimensions,
   StyleSheet,
   SafeAreaView,
-  ScrollView,
+  FlatList,
 } from 'react-native';
 import AsyncStorage from '@react-native-community/async-storage';
 
 import {FlashcardModel} from '../../storage/realm/models/flashcardModel';
 import {flashcardActions} from '../../storage/realm';
-import {FlashcardList} from './FlashcardList';
 import {Navigation} from 'react-native-navigation';
 import {
   CORRECT_FILTER_NAME,
@@ -18,6 +17,9 @@ import {
   UNANSWERED_FILTER_NAME,
 } from '../../constants';
 import {Spinner} from '../../components/Spinner';
+import { Flashcard } from './Flashcard';
+
+import cardImages from '../../assets/images/cards';
 
 const filterIcon = require('../../assets/images/filter.png');
 
@@ -133,6 +135,33 @@ export class FlashcardsScreen extends React.Component<Props, State> {
     });
   }
 
+  listKeyExtractor = (item: FlashcardModel) => String(item.id);
+
+  renderListItem = ({item, index}: { item: FlashcardModel, index: number }) => {
+    const questionImage =
+      // @ts-ignore
+      item.questionImage && cardImages[item.questionImage];
+    // @ts-ignore
+    const answerImage = item.answerImage && cardImages[item.answerImage];
+    return (
+      <Flashcard
+        item={item}
+        total={this.state.flashcards?.length ?? 0}
+        position={index + 1}
+        questionImage={questionImage}
+        answerImage={answerImage}
+      />
+    )
+  }
+
+  renderListHeader = () => {
+    return (
+      <Text style={styles.swipeTheCardLabel}>
+        Tap the card to see the correct answer
+      </Text>
+    );
+  }
+
   render() {
     const numberOfFlashcards = this.state.flashcards
       ? this.state.flashcards.length
@@ -140,21 +169,24 @@ export class FlashcardsScreen extends React.Component<Props, State> {
     return (
       <React.Fragment>
         <SafeAreaView style={styles.container}>
-          <ScrollView
-            overScrollMode="never"
-            decelerationRate="fast"
-            snapToOffsets={[...Array(numberOfFlashcards)].map(
-              (x, i) => i * CARD_HEIGHT,
-            )}>
-            <Text style={styles.swipeTheCardLabel}>
-              Tap the card to see the correct answer
-            </Text>
-            {!this.state.flashcards ? (
-              <Spinner />
-            ) : (
-              <FlashcardList cards={this.state.flashcards} />
-            )}
-          </ScrollView>
+          {!this.state.flashcards ? (
+            <Spinner />
+          ) : (
+            <>
+              <FlatList
+                data={this.state.flashcards}
+                extraData={{ total: this.state.flashcards?.length ?? 0 }}
+                renderItem={this.renderListItem}
+                keyExtractor={this.listKeyExtractor}
+                overScrollMode="never"
+                decelerationRate="fast"
+                snapToOffsets={[...Array(numberOfFlashcards)].map(
+                  (x, i) => i * CARD_HEIGHT,
+                )}
+                ListHeaderComponent={this.renderListHeader}
+              />
+            </>
+          )}
         </SafeAreaView>
       </React.Fragment>
     );

@@ -72,18 +72,22 @@ export const CardBack = ({
           <Button
             type="danger"
             onClick={async () => {
-              updateCardAnswerStatus(card.id, 'incorrect');
+              await Promise.all([
+                updateCardAnswerStatus(card.id, 'incorrect'),
+                moduleActions.updateLastRevisedDate(card.moduleId),
+              ]);
               trackEvent(Q_ANSWERED_INCORRECTLY, { cardId: card.id, module: card.moduleId });
-              await moduleActions.updateLastRevisedDate(card.moduleId);
             }}
             label="Incorrect"
           />
           <Button
             type="success"
             onClick={async () => {
+              await Promise.all([
+                updateCardAnswerStatus(card.id, 'correct'),
+                moduleActions.updateLastRevisedDate(card.moduleId),
+              ]);
               trackEvent(Q_ANSWERED_CORRECTLY, { cardId: card.id, module: card.moduleId });
-              updateCardAnswerStatus(card.id, 'correct');
-              await moduleActions.updateLastRevisedDate(card.moduleId);
             }}
             label="Correct"
           />
