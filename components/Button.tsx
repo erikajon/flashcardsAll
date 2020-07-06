@@ -50,7 +50,7 @@ const getLabelStyle = (buttonType: ButtonType) => {
 }
 
 export const Button = (props: Props) => (
-  <TouchableOpacity onPress={props.onClick}>
+  <TouchableOpacity onPress={props.onClick} activeOpacity={0.9}>
     <View style={getButtonStyle(props.type, props.width)}>
       <Text style={getLabelStyle(props.type)}>{props.label}</Text>
     </View>
