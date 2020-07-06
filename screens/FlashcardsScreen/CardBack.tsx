@@ -8,6 +8,7 @@ import {
   Dimensions,
   ImageSourcePropType,
 } from 'react-native';
+
 import {
   FlashcardModel,
   FlashcardAnswerType,
