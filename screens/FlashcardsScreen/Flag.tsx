@@ -32,6 +32,6 @@ export const CardFlag = ({answerType}: CardFlagProps) => {
     case 'incorrect':
       return <Flag fill={INCORRECT_ANSWER_COLOUR} />;
     default:
-      return <View />;
+      return <View style={{ height: 43, width: 31 }} />;
   }
 };
