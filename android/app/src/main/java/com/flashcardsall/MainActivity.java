@@ -1,4 +1,4 @@
-package com.flashcardsall;
+package com.chemistryflashcards;
 
 import android.os.Bundle;
 
