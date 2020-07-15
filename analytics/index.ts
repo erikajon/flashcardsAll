@@ -1,7 +1,7 @@
 import Mixpanel from 'react-native-mixpanel';
 
 export const setupMixpanel = () => {
-  Mixpanel.sharedInstanceWithToken('ea78fd2a5ad3dfa4db547da9b29af0f0', false);
+  Mixpanel.sharedInstanceWithToken('ea78fd2a5ad3dfa4db547da9b29af0f0', true);
 }
 
 type AnalyticsEventType =

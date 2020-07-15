@@ -6,7 +6,6 @@ import {
   StyleSheet,
   View,
   Dimensions,
-  AsyncStorage,
 } from 'react-native';
 import uuid from 'react-native-unique-id';
 import Mixpanel from 'react-native-mixpanel';
