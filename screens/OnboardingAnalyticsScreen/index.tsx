@@ -13,7 +13,7 @@ import AsyncStorage from '@react-native-community/async-storage';
 
 import {mainRoot} from '../../index';
 import {Button} from '../../components/Button';
-import { HAS_USER_ONBOARDED } from '../../constants';
+import { HAS_USER_ONBOARDED, HAS_OPTED_IN_FOR_ANALYTICS } from '../../constants';
 
 const illustration = require('../../assets/images/analytics.png');
 
@@ -28,6 +28,7 @@ export const OnboardingAnalyticsScreen = () => {
       Mixpanel.optInTracking();
       Mixpanel.createAlias(mixpanelId);
       Mixpanel.registerSuperProperties({ app: 'GCSE Chemistry', examBoard: 'AQA' });
+      await AsyncStorage.setItem(HAS_OPTED_IN_FOR_ANALYTICS, 'true');
       
       Navigation.setRoot(mainRoot);
     } catch (err) {
@@ -40,6 +41,7 @@ export const OnboardingAnalyticsScreen = () => {
     // user does not see onboarding again
     try {
       await AsyncStorage.setItem(HAS_USER_ONBOARDED, 'true');
+      await AsyncStorage.setItem(HAS_OPTED_IN_FOR_ANALYTICS, 'false');
     } catch (err) {
       console.log(err);
     }
