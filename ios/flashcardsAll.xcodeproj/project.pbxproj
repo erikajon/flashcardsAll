@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* flashcardsAllTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* flashcardsAllTests.m */; };
+		00E356F31AD99517003FC87E /* chemistryflashcardsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* chemistryflashcardsTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
@@ -15,11 +15,11 @@
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* flashcardsAllTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* flashcardsAllTests.m */; };
-		3E06D10AF2AC22B085A50F51 /* libPods-flashcardsAll-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C327B5AEAC6057346D3A9DD4 /* libPods-flashcardsAll-tvOSTests.a */; };
-		6452F3798D6FAD871583400F /* libPods-flashcardsAllTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9AA3AF354533E5D69981F254 /* libPods-flashcardsAllTests.a */; };
-		E6886021FBD3C02F1FCC1F1B /* libPods-flashcardsAll-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7987B8962B8CB579F1927541 /* libPods-flashcardsAll-tvOS.a */; };
-		F5F76FD424C1CCE98CB2AD20 /* libPods-flashcardsAll.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 332D5BB1719F8D52CA12071B /* libPods-flashcardsAll.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* chemistryflashcardsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* chemistryflashcardsTests.m */; };
+		3E06D10AF2AC22B085A50F51 /* libPods-chemistryflashcards-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C327B5AEAC6057346D3A9DD4 /* libPods-chemistryflashcards-tvOSTests.a */; };
+		6452F3798D6FAD871583400F /* libPods-chemistryflashcardsTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9AA3AF354533E5D69981F254 /* libPods-chemistryflashcardsTests.a */; };
+		E6886021FBD3C02F1FCC1F1B /* libPods-chemistryflashcards-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7987B8962B8CB579F1927541 /* libPods-chemistryflashcards-tvOS.a */; };
+		F5F76FD424C1CCE98CB2AD20 /* libPods-chemistryflashcards.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 332D5BB1719F8D52CA12071B /* libPods-chemistryflashcards.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,43 +28,43 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = flashcardsAll;
+			remoteInfo = chemistryflashcards;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "flashcardsAll-tvOS";
+			remoteInfo = "chemistryflashcards-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* flashcardsAllTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = flashcardsAllTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* chemistryflashcardsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = chemistryflashcardsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* flashcardsAllTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = flashcardsAllTests.m; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* flashcardsAll.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = flashcardsAll.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = flashcardsAll/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = flashcardsAll/AppDelegate.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* chemistryflashcardsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = chemistryflashcardsTests.m; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* chemistryflashcards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = chemistryflashcards.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = chemistryflashcards/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = chemistryflashcards/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = flashcardsAll/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = flashcardsAll/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = flashcardsAll/main.m; sourceTree = "<group>"; };
-		168242D5E9F33716BC3823D1 /* Pods-flashcardsAll.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flashcardsAll.release.xcconfig"; path = "Target Support Files/Pods-flashcardsAll/Pods-flashcardsAll.release.xcconfig"; sourceTree = "<group>"; };
-		1DF35AC446F393E41C789F90 /* Pods-flashcardsAllTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flashcardsAllTests.debug.xcconfig"; path = "Target Support Files/Pods-flashcardsAllTests/Pods-flashcardsAllTests.debug.xcconfig"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* flashcardsAll-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "flashcardsAll-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* flashcardsAll-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "flashcardsAll-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		332D5BB1719F8D52CA12071B /* libPods-flashcardsAll.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-flashcardsAll.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		35F9D24AD5156ED2283CCD88 /* Pods-flashcardsAll-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flashcardsAll-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-flashcardsAll-tvOSTests/Pods-flashcardsAll-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		3D8B2543E2FE2E450D45C4EB /* Pods-flashcardsAllTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flashcardsAllTests.release.xcconfig"; path = "Target Support Files/Pods-flashcardsAllTests/Pods-flashcardsAllTests.release.xcconfig"; sourceTree = "<group>"; };
-		4B7BD1E4C9A659BF8689D080 /* Pods-flashcardsAll-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flashcardsAll-tvOS.release.xcconfig"; path = "Target Support Files/Pods-flashcardsAll-tvOS/Pods-flashcardsAll-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		7987B8962B8CB579F1927541 /* libPods-flashcardsAll-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-flashcardsAll-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		7EBE610A71549563404D08A8 /* Pods-flashcardsAll-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flashcardsAll-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-flashcardsAll-tvOSTests/Pods-flashcardsAll-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		9AA3AF354533E5D69981F254 /* libPods-flashcardsAllTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-flashcardsAllTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B8389DA4D6A32CBB2AEE4184 /* Pods-flashcardsAll-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flashcardsAll-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-flashcardsAll-tvOS/Pods-flashcardsAll-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		C327B5AEAC6057346D3A9DD4 /* libPods-flashcardsAll-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-flashcardsAll-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C3F1CD590C516CC5088E83A1 /* Pods-flashcardsAll.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flashcardsAll.debug.xcconfig"; path = "Target Support Files/Pods-flashcardsAll/Pods-flashcardsAll.debug.xcconfig"; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = chemistryflashcards/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = chemistryflashcards/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = chemistryflashcards/main.m; sourceTree = "<group>"; };
+		168242D5E9F33716BC3823D1 /* Pods-chemistryflashcards.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chemistryflashcards.release.xcconfig"; path = "Target Support Files/Pods-chemistryflashcards/Pods-chemistryflashcards.release.xcconfig"; sourceTree = "<group>"; };
+		1DF35AC446F393E41C789F90 /* Pods-chemistryflashcardsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chemistryflashcardsTests.debug.xcconfig"; path = "Target Support Files/Pods-chemistryflashcardsTests/Pods-chemistryflashcardsTests.debug.xcconfig"; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* chemistryflashcards-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "chemistryflashcards-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* chemistryflashcards-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "chemistryflashcards-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		332D5BB1719F8D52CA12071B /* libPods-chemistryflashcards.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-chemistryflashcards.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		35F9D24AD5156ED2283CCD88 /* Pods-chemistryflashcards-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chemistryflashcards-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-chemistryflashcards-tvOSTests/Pods-chemistryflashcards-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		3D8B2543E2FE2E450D45C4EB /* Pods-chemistryflashcardsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chemistryflashcardsTests.release.xcconfig"; path = "Target Support Files/Pods-chemistryflashcardsTests/Pods-chemistryflashcardsTests.release.xcconfig"; sourceTree = "<group>"; };
+		4B7BD1E4C9A659BF8689D080 /* Pods-chemistryflashcards-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chemistryflashcards-tvOS.release.xcconfig"; path = "Target Support Files/Pods-chemistryflashcards-tvOS/Pods-chemistryflashcards-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		7987B8962B8CB579F1927541 /* libPods-chemistryflashcards-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-chemistryflashcards-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7EBE610A71549563404D08A8 /* Pods-chemistryflashcards-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chemistryflashcards-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-chemistryflashcards-tvOSTests/Pods-chemistryflashcards-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		9AA3AF354533E5D69981F254 /* libPods-chemistryflashcardsTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-chemistryflashcardsTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B8389DA4D6A32CBB2AEE4184 /* Pods-chemistryflashcards-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chemistryflashcards-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-chemistryflashcards-tvOS/Pods-chemistryflashcards-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		C327B5AEAC6057346D3A9DD4 /* libPods-chemistryflashcards-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-chemistryflashcards-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C3F1CD590C516CC5088E83A1 /* Pods-chemistryflashcards.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chemistryflashcards.debug.xcconfig"; path = "Target Support Files/Pods-chemistryflashcards/Pods-chemistryflashcards.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
@@ -74,7 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6452F3798D6FAD871583400F /* libPods-flashcardsAllTests.a in Frameworks */,
+				6452F3798D6FAD871583400F /* libPods-chemistryflashcardsTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,7 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F5F76FD424C1CCE98CB2AD20 /* libPods-flashcardsAll.a in Frameworks */,
+				F5F76FD424C1CCE98CB2AD20 /* libPods-chemistryflashcards.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -90,7 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E6886021FBD3C02F1FCC1F1B /* libPods-flashcardsAll-tvOS.a in Frameworks */,
+				E6886021FBD3C02F1FCC1F1B /* libPods-chemistryflashcards-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,20 +98,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3E06D10AF2AC22B085A50F51 /* libPods-flashcardsAll-tvOSTests.a in Frameworks */,
+				3E06D10AF2AC22B085A50F51 /* libPods-chemistryflashcards-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* flashcardsAllTests */ = {
+		00E356EF1AD99517003FC87E /* chemistryflashcardsTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* flashcardsAllTests.m */,
+				00E356F21AD99517003FC87E /* chemistryflashcardsTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = flashcardsAllTests;
+			path = chemistryflashcardsTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -122,7 +122,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* flashcardsAll */ = {
+		13B07FAE1A68108700A75B9A /* chemistryflashcards */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -133,7 +133,7 @@
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = flashcardsAll;
+			name = chemistryflashcards;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -141,10 +141,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				332D5BB1719F8D52CA12071B /* libPods-flashcardsAll.a */,
-				7987B8962B8CB579F1927541 /* libPods-flashcardsAll-tvOS.a */,
-				C327B5AEAC6057346D3A9DD4 /* libPods-flashcardsAll-tvOSTests.a */,
-				9AA3AF354533E5D69981F254 /* libPods-flashcardsAllTests.a */,
+				332D5BB1719F8D52CA12071B /* libPods-chemistryflashcards.a */,
+				7987B8962B8CB579F1927541 /* libPods-chemistryflashcards-tvOS.a */,
+				C327B5AEAC6057346D3A9DD4 /* libPods-chemistryflashcards-tvOSTests.a */,
+				9AA3AF354533E5D69981F254 /* libPods-chemistryflashcardsTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -159,9 +159,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* flashcardsAll */,
+				13B07FAE1A68108700A75B9A /* chemistryflashcards */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* flashcardsAllTests */,
+				00E356EF1AD99517003FC87E /* chemistryflashcardsTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				F35662EC7EC94706ADF57646 /* Pods */,
@@ -174,10 +174,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* flashcardsAll.app */,
-				00E356EE1AD99517003FC87E /* flashcardsAllTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* flashcardsAll-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* flashcardsAll-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* chemistryflashcards.app */,
+				00E356EE1AD99517003FC87E /* chemistryflashcardsTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* chemistryflashcards-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* chemistryflashcards-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -185,14 +185,14 @@
 		F35662EC7EC94706ADF57646 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				C3F1CD590C516CC5088E83A1 /* Pods-flashcardsAll.debug.xcconfig */,
-				168242D5E9F33716BC3823D1 /* Pods-flashcardsAll.release.xcconfig */,
-				B8389DA4D6A32CBB2AEE4184 /* Pods-flashcardsAll-tvOS.debug.xcconfig */,
-				4B7BD1E4C9A659BF8689D080 /* Pods-flashcardsAll-tvOS.release.xcconfig */,
-				7EBE610A71549563404D08A8 /* Pods-flashcardsAll-tvOSTests.debug.xcconfig */,
-				35F9D24AD5156ED2283CCD88 /* Pods-flashcardsAll-tvOSTests.release.xcconfig */,
-				1DF35AC446F393E41C789F90 /* Pods-flashcardsAllTests.debug.xcconfig */,
-				3D8B2543E2FE2E450D45C4EB /* Pods-flashcardsAllTests.release.xcconfig */,
+				C3F1CD590C516CC5088E83A1 /* Pods-chemistryflashcards.debug.xcconfig */,
+				168242D5E9F33716BC3823D1 /* Pods-chemistryflashcards.release.xcconfig */,
+				B8389DA4D6A32CBB2AEE4184 /* Pods-chemistryflashcards-tvOS.debug.xcconfig */,
+				4B7BD1E4C9A659BF8689D080 /* Pods-chemistryflashcards-tvOS.release.xcconfig */,
+				7EBE610A71549563404D08A8 /* Pods-chemistryflashcards-tvOSTests.debug.xcconfig */,
+				35F9D24AD5156ED2283CCD88 /* Pods-chemistryflashcards-tvOSTests.release.xcconfig */,
+				1DF35AC446F393E41C789F90 /* Pods-chemistryflashcardsTests.debug.xcconfig */,
+				3D8B2543E2FE2E450D45C4EB /* Pods-chemistryflashcardsTests.release.xcconfig */,
 			);
 			name = Pods;
 			path = Pods;
@@ -201,9 +201,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* flashcardsAllTests */ = {
+		00E356ED1AD99517003FC87E /* chemistryflashcardsTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "flashcardsAllTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "chemistryflashcardsTests" */;
 			buildPhases = (
 				D109A932216FE1A12D9BE763 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -215,14 +215,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = flashcardsAllTests;
-			productName = flashcardsAllTests;
-			productReference = 00E356EE1AD99517003FC87E /* flashcardsAllTests.xctest */;
+			name = chemistryflashcardsTests;
+			productName = chemistryflashcardsTests;
+			productReference = 00E356EE1AD99517003FC87E /* chemistryflashcardsTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* flashcardsAll */ = {
+		13B07F861A680F5B00A75B9A /* chemistryflashcards */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "flashcardsAll" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "chemistryflashcards" */;
 			buildPhases = (
 				004FA6047FF636663128ACB2 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -235,14 +235,14 @@
 			);
 			dependencies = (
 			);
-			name = flashcardsAll;
-			productName = flashcardsAll;
-			productReference = 13B07F961A680F5B00A75B9A /* flashcardsAll.app */;
+			name = chemistryflashcards;
+			productName = chemistryflashcards;
+			productReference = 13B07F961A680F5B00A75B9A /* chemistryflashcards.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* flashcardsAll-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* chemistryflashcards-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "flashcardsAll-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "chemistryflashcards-tvOS" */;
 			buildPhases = (
 				03BBBA00CA544A19DB201405 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -255,14 +255,14 @@
 			);
 			dependencies = (
 			);
-			name = "flashcardsAll-tvOS";
-			productName = "flashcardsAll-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* flashcardsAll-tvOS.app */;
+			name = "chemistryflashcards-tvOS";
+			productName = "chemistryflashcards-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* chemistryflashcards-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* flashcardsAll-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* chemistryflashcards-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "flashcardsAll-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "chemistryflashcards-tvOSTests" */;
 			buildPhases = (
 				C3CBCF34D00DAC1AEA41ADED /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -274,9 +274,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "flashcardsAll-tvOSTests";
-			productName = "flashcardsAll-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* flashcardsAll-tvOSTests.xctest */;
+			name = "chemistryflashcards-tvOSTests";
+			productName = "chemistryflashcards-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* chemistryflashcards-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -303,7 +303,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "flashcardsAll" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "chemistryflashcards" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -316,10 +316,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* flashcardsAll */,
-				00E356ED1AD99517003FC87E /* flashcardsAllTests */,
-				2D02E47A1E0B4A5D006451C7 /* flashcardsAll-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* flashcardsAll-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* chemistryflashcards */,
+				00E356ED1AD99517003FC87E /* chemistryflashcardsTests */,
+				2D02E47A1E0B4A5D006451C7 /* chemistryflashcards-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* chemistryflashcards-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -374,7 +374,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-flashcardsAll-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-chemistryflashcards-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -410,7 +410,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-flashcardsAll-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-chemistryflashcards-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -446,7 +446,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-flashcardsAll-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-chemistryflashcards-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -468,7 +468,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-flashcardsAllTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-chemistryflashcardsTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -520,7 +520,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* flashcardsAllTests.m in Sources */,
+				00E356F31AD99517003FC87E /* chemistryflashcardsTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -546,7 +546,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* flashcardsAllTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* chemistryflashcardsTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -555,12 +555,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* flashcardsAll */;
+			target = 13B07F861A680F5B00A75B9A /* chemistryflashcards */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* flashcardsAll-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* chemistryflashcards-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -572,7 +572,7 @@
 				13B07FB21A68108700A75B9A /* Base */,
 			);
 			name = LaunchScreen.xib;
-			path = flashcardsAll;
+			path = chemistryflashcards;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -580,14 +580,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1DF35AC446F393E41C789F90 /* Pods-flashcardsAllTests.debug.xcconfig */;
+			baseConfigurationReference = 1DF35AC446F393E41C789F90 /* Pods-chemistryflashcardsTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = flashcardsAllTests/Info.plist;
+				INFOPLIST_FILE = chemistryflashcardsTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -597,17 +597,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/flashcardsAll.app/flashcardsAll";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/chemistryflashcards.app/chemistryflashcards";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3D8B2543E2FE2E450D45C4EB /* Pods-flashcardsAllTests.release.xcconfig */;
+			baseConfigurationReference = 3D8B2543E2FE2E450D45C4EB /* Pods-chemistryflashcardsTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = flashcardsAllTests/Info.plist;
+				INFOPLIST_FILE = chemistryflashcardsTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -617,18 +617,18 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/flashcardsAll.app/flashcardsAll";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/chemistryflashcards.app/chemistryflashcards";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C3F1CD590C516CC5088E83A1 /* Pods-flashcardsAll.debug.xcconfig */;
+			baseConfigurationReference = C3F1CD590C516CC5088E83A1 /* Pods-chemistryflashcards.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
-				INFOPLIST_FILE = flashcardsAll/Info.plist;
+				INFOPLIST_FILE = chemistryflashcards/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -636,18 +636,18 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = flashcardsAll;
+				PRODUCT_NAME = chemistryflashcards;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 168242D5E9F33716BC3823D1 /* Pods-flashcardsAll.release.xcconfig */;
+			baseConfigurationReference = 168242D5E9F33716BC3823D1 /* Pods-chemistryflashcards.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = flashcardsAll/Info.plist;
+				INFOPLIST_FILE = chemistryflashcards/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -655,14 +655,14 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = flashcardsAll;
+				PRODUCT_NAME = chemistryflashcards;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B8389DA4D6A32CBB2AEE4184 /* Pods-flashcardsAll-tvOS.debug.xcconfig */;
+			baseConfigurationReference = B8389DA4D6A32CBB2AEE4184 /* Pods-chemistryflashcards-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -673,14 +673,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "flashcardsAll-tvOS/Info.plist";
+				INFOPLIST_FILE = "chemistryflashcards-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.flashcardsAll-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.chemistryflashcards-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -690,7 +690,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4B7BD1E4C9A659BF8689D080 /* Pods-flashcardsAll-tvOS.release.xcconfig */;
+			baseConfigurationReference = 4B7BD1E4C9A659BF8689D080 /* Pods-chemistryflashcards-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -701,14 +701,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "flashcardsAll-tvOS/Info.plist";
+				INFOPLIST_FILE = "chemistryflashcards-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.flashcardsAll-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.chemistryflashcards-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -718,7 +718,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7EBE610A71549563404D08A8 /* Pods-flashcardsAll-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = 7EBE610A71549563404D08A8 /* Pods-chemistryflashcards-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -728,24 +728,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "flashcardsAll-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "chemistryflashcards-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.flashcardsAll-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.chemistryflashcards-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/flashcardsAll-tvOS.app/flashcardsAll-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/chemistryflashcards-tvOS.app/chemistryflashcards-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 35F9D24AD5156ED2283CCD88 /* Pods-flashcardsAll-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 35F9D24AD5156ED2283CCD88 /* Pods-chemistryflashcards-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -755,17 +755,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "flashcardsAll-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "chemistryflashcards-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.flashcardsAll-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.chemistryflashcards-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/flashcardsAll-tvOS.app/flashcardsAll-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/chemistryflashcards-tvOS.app/chemistryflashcards-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -872,7 +872,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "flashcardsAllTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "chemistryflashcardsTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -881,7 +881,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "flashcardsAll" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "chemistryflashcards" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -890,7 +890,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "flashcardsAll-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "chemistryflashcards-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -899,7 +899,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "flashcardsAll-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "chemistryflashcards-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -908,7 +908,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "flashcardsAll" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "chemistryflashcards" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,
